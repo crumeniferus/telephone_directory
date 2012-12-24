@@ -1,0 +1,6 @@
+h1. Gordon 
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Gordon (Landline)|70|426970||
+|Gordon (Mobile)|71|7721843373||
+

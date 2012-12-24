@@ -1,0 +1,5 @@
+h1. Advertiser 
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Swanage Advertiser (Newspaper)|51|427428||
+

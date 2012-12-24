@@ -1,0 +1,7 @@
+h1. Weymouth 
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Weymouth Crematorium|43|1305786984||
+|Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
+|Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
+

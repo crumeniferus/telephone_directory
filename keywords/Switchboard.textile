@@ -1,0 +1,10 @@
+h1. Switchboard 
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Bournemouth Hospital Mortuary|25|||
+|(see-also). See also Bournemouth Hospital Switchboard|
+|Bournemouth Hospital Switchboard|27|1202303626||
+|Dorchester Hospital Switchboard|29|1305251150||
+|Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
+|Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
+

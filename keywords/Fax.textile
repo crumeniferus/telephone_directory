@@ -1,0 +1,5 @@
+h1. Fax 
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Poole Hospital Mortuary (Fax)|22|1202442286||
+

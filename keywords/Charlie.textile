@@ -1,0 +1,6 @@
+h1. Charlie 
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Charlie|66|423124||
+|Charlie (Mobile)|67|7932480881||
+

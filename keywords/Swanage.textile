@@ -1,0 +1,11 @@
+h1. Swanage 
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Swanage Advertiser (Newspaper)|51|427428||
+|Swanage Hospital (Reception)|36|422282||
+|Swanage Hospital (Ward Sister)|37|475013||
+|Swanage Surgery (Appointments)|40|475104||
+|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109||
+|Swanage Surgery (Reception)|39|422231||
+|Swanage Town Council|7|423636||
+

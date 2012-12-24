@@ -1,0 +1,6 @@
+h1. Reception 
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Swanage Hospital (Reception)|36|422282||
+|Swanage Surgery (Reception)|39|422231||
+

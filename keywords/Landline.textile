@@ -1,0 +1,13 @@
+h1. Landline 
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Dave (Landline)|72|421132||
+|Derek (Landline)|62|761442||
+|Gordon (Landline)|70|426970||
+|Ian (Landline)|64|427107||
+|John (Landline)|74|425592||
+|Lew (Landline)|77|425044||
+|Malcolm (Landline)|60|424959||
+|Mike (Landline)|68|424041||
+|Perfect Petals (Florists) (Marita) (Landline)|48|423537||
+
