@@ -36,7 +36,7 @@ spell_lang: en
 c2e.convert_symbol: 0
 snr_escape_chars: 0
 view_blockstack: 1
-htmlbar_notebooktab: 2
+htmlbar_notebooktab: 6
 last_filefilter: 
 spell_insert_entities: 0
 spell_check_default: 1
@@ -48,12 +48,14 @@ files: F:\\Office\\Ian Pending\\telephones\\textile2html.pl
 files: F:\\Office\\Ian Pending\\telephones\\contrib\\textile_header.textile
 files: F:\\Office\\Ian Pending\\telephones\\contrib\\html_preamble.html
 files: F:\\Office\\Ian Pending\\telephones\\contrib\\html_footer.html
+files: F:\\Office\\Ian Pending\\telephones\\directory.css
 snr_replacetype: 0
+recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/html_preamble.html
+recent_files: file:///F:/Office/Ian%20Pending/telephones/textile2html.pl
 recent_files: file:///F:/Office/Ian%20Pending/telephones/makefile
+recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/html_footer.html
 recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/textile_header.textile
 recent_files: file:///F:/Office/Ian%20Pending/telephones/csv2textile.mawk
-recent_files: file:///F:/Office/Ian%20Pending/telephones/textile2html.pl
-recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/html_preamble.html
 recent_files: file:///F:/Office/Ian%20Pending/telephones/clean_possessives.mawk
 recent_files: file:///F:/Office/Ian%20Pending/telephones/telephone_directory_pages.html
 recent_files: file:///F:/Office/Ian%20Pending/telephones/telephone_data.csv
@@ -81,9 +83,11 @@ view_left_panel: 1
 htmlbar_thumbnailwidth: 300
 bmarks: ::F\:\\Office\\Ian Pending\\telephones\\textile2html.pl:549::679:
 bmarks: ::F\:\\Office\\Ian Pending\\telephones\\textile2html.pl:348::679:
-bmarks: ::F\:\\Office\\Ian Pending\\telephones\\makefile:2224:)\::2524:
+bmarks: ::F\:\\Office\\Ian Pending\\telephones\\makefile:2345:)\::2645:
 fb_show_backup_f: 0
 view_line_numbers: 1
+colorlist: #99CFFF
+colorlist: #0087FF
 show_mbhl: 1
 adv_open_matchname: 0
 convertcolumn_horizontally: 0
