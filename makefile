@@ -40,8 +40,10 @@ telephone_directory_pages.textile: $(keyword_TEXTILES)
 $(keyword_PDFs) : %.pdf : %.textile
 	@echo Command required here to create keyword PDFs from Textile.
 
-$(keyword_TEXTILEs) : %.textile : %.csv $(SCRIPT_CSV2TEXTILE)
+.SECONDEXPANSION:
+$(keyword_TEXTILEs) : %.textile : %.csv $(SCRIPT_CSV2TEXTILE) thiskeyword=$$(patsubst $(keyword_dir)%.textile,%,$@)
 	@echo Command required here to create keyword Textile from CSVs.
+	@echo Keyword is $()thiskeyword)
 	@echo h1. $(patsubst $(keyword_dir)%.textile,%,$@) > $@
 	cat $(textile_header) >> $@
 	@echo Prerequisites are: $< 
