@@ -45,7 +45,7 @@ $(keyword_TEXTILEs) : thiskeyword=$(patsubst $(keyword_dir)%.textile,%,$@)
 $(keyword_TEXTILEs) : %.textile : %.csv $(SCRIPT_CSV2TEXTILE)
 	@echo Create keyword Textile from CSVs.
 	@echo Keyword is $(thiskeyword)
-	@echo h1. $(thiskeyword) > $@
+	@echo h1\(#$(thiskeyword)\). $(thiskeyword) > $@
 	cat $(textile_header) >> $@
 	@echo Prerequisites are: $< 
 	mawk -f $(SCRIPT_CSV2TEXTILE) $< >> $@

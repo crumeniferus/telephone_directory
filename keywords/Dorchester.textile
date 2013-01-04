@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 h1. Dorchester
+=======
+h1(#Dorchester). Dorchester
+>>>>>>> Added id property to keyword headers.
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Dorchester Hospital Mortuary|(shortcode). 28|(tel_number). 1305255250|(empty_notes). ...|

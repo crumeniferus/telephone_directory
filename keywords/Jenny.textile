@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 h1. Jenny
+=======
+h1(#Jenny). Jenny
+>>>>>>> Added id property to keyword headers.
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). John (Jenny) (Mobile)|(shortcode). 76|(tel_number). 7966433191|(empty_notes). ...|

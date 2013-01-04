@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 h1. Silver
+=======
+h1(#Silver). Silver
+>>>>>>> Added id property to keyword headers.
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). James Smith Mobile Silver|(shortcode). 57|(tel_number). 7751821301|(empty_notes). ...|

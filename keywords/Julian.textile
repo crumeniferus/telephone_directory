@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 h1. Julian
+=======
+h1(#Julian). Julian
+>>>>>>> Added id property to keyword headers.
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Bournemouth Coroner (Julian) (Direct Line)|(shortcode). 33|(tel_number). 1202789057|(empty_notes). ...|

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 h1. Purbeck
+=======
+h1(#Purbeck). Purbeck
+>>>>>>> Added id property to keyword headers.
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Purbeck Press|(shortcode). 8|(tel_number). 7968824129|(empty_notes). ...|

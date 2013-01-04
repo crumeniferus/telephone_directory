@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 h1. Ward
+=======
+h1(#Ward). Ward
+>>>>>>> Added id property to keyword headers.
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Swanage Hospital (Ward Sister)|(shortcode). 37|(tel_number). 475013|(empty_notes). ...|
