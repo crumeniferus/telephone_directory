@@ -22,7 +22,7 @@ directory: telephone_directory.pdf telephone_directory.html
 
 #telephone_directory.pdf : $(addsuffix .pdf,$(keyword_file_stems))
 telephone_directory.pdf : $(keyword_PDFs)
-	@echo use pdftk to cat all the files together. Also need to ensure they are sorted alphabetically first - rely on the keyword list being alphabetical.
+#	@echo use pdftk to cat all the files together. Also need to ensure they are sorted alphabetically first - rely on the keyword list being alphabetical.
 
 telephone_directory.html : telephone_directory_pages.html
 	@echo Cat together the HTML preamble, pages and closure.
@@ -38,13 +38,14 @@ telephone_directory_pages.textile: $(keyword_TEXTILES)
 
 # This next rule could be broadened to %.pdf, with a filter to exclude the keyword files.  
 $(keyword_PDFs) : %.pdf : %.textile
-	@echo Command required here to create keyword PDFs from Textile.
+#	@echo Command required here to create keyword PDFs from Textile.
 
 .SECONDEXPANSION:
-$(keyword_TEXTILEs) : %.textile : %.csv $(SCRIPT_CSV2TEXTILE) thiskeyword=$$(patsubst $(keyword_dir)%.textile,%,$@)
-	@echo Command required here to create keyword Textile from CSVs.
-	@echo Keyword is $()thiskeyword)
-	@echo h1. $(patsubst $(keyword_dir)%.textile,%,$@) > $@
+$(keyword_TEXTILEs) : thiskeyword=$(patsubst $(keyword_dir)%.textile,%,$@)
+$(keyword_TEXTILEs) : %.textile : %.csv $(SCRIPT_CSV2TEXTILE)
+	@echo Create keyword Textile from CSVs.
+	@echo Keyword is $(thiskeyword)
+	@echo h1. $(thiskeyword) > $@
 	cat $(textile_header) >> $@
 	@echo Prerequisites are: $< 
 	mawk -f $(SCRIPT_CSV2TEXTILE) $< >> $@
