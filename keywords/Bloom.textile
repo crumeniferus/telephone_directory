@@ -1,5 +1,5 @@
-h1. Bloom 
+h1. Bloom
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Bloom (Florists) (Victoria)|46|426197||
+|Bloom (Florists) (Victoria)|46|426197|...|
 

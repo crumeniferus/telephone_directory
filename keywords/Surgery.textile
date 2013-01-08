@@ -1,7 +1,7 @@
-h1. Surgery 
+h1. Surgery
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Surgery (Appointments)|40|475104||
-|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109||
-|Swanage Surgery (Reception)|39|422231||
+|Swanage Surgery (Appointments)|40|475104|...|
+|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109|...|
+|Swanage Surgery (Reception)|39|422231|...|
 

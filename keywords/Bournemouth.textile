@@ -1,13 +1,13 @@
-h1. Bournemouth 
+h1. Bournemouth
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057||
-|Bournemouth Coroner (Office)|35|1202789154||
-|Bournemouth Coroner (Secretary) (Geri)|34|1202310049||
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
-|Bournemouth Crematorium|42|1202526238||
-|Bournemouth Hospital General Office|26|1202404125||
-|Bournemouth Hospital Mortuary|25|||
-|(see-also). See also Bournemouth Hospital Switchboard|
-|Bournemouth Hospital Switchboard|27|1202303626||
+|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057|...|
+|Bournemouth Coroner (Office)|35|1202789154|...|
+|Bournemouth Coroner (Secretary) (Geri)|34|1202310049|...|
+|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300|...|
+|Bournemouth Crematorium|42|1202526238|...|
+|Bournemouth Hospital General Office|26|1202404125|...|
+(has-see-also). |Bournemouth Hospital Mortuary|25||...|
+|(see-also). _See also_ Bournemouth Hospital Switchboard|
+(has-see-also). |Bournemouth Hospital Switchboard|27|1202303626|...|
 

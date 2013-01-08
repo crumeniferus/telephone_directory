@@ -1,13 +1,13 @@
-h1. Mortuary 
+h1. Mortuary
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
-|Bournemouth Hospital Mortuary|25|||
-|(see-also). See also Bournemouth Hospital Switchboard|
-|Dorchester Hospital Mortuary|28|1305255250||
-|Poole Hospital Mortuary (Fax)|22|1202442286||
-|Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
-|Poole Hospital Mortuary (Val) (Sue)|23|1202442061||
-|Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
-|Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
+|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300|...|
+(has-see-also). |Bournemouth Hospital Mortuary|25||...|
+|(see-also). _See also_ Bournemouth Hospital Switchboard|
+(has-see-also). |Dorchester Hospital Mortuary|28|1305255250|...|
+(has-see-also). |Poole Hospital Mortuary (Fax)|22|1202442286|...|
+(has-see-also). |Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
+(has-see-also). |Poole Hospital Mortuary (Val) (Sue)|23|1202442061|...|
+(has-see-also). |Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
+(has-see-also). |Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
 

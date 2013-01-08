@@ -1,5 +1,5 @@
-h1. Newspaper 
+h1. Newspaper
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Advertiser (Newspaper)|51|427428||
+|Swanage Advertiser (Newspaper)|51|427428|...|
 

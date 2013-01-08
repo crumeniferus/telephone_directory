@@ -22,7 +22,7 @@ directory: telephone_directory.pdf telephone_directory.html
 
 #telephone_directory.pdf : $(addsuffix .pdf,$(keyword_file_stems))
 telephone_directory.pdf : $(keyword_PDFs)
-	@echo use pdftk to cat all the files together. Also need to ensure they are sorted alphabetically first - rely on the keyword list being alphabetical.
+#	@echo use pdftk to cat all the files together. Also need to ensure they are sorted alphabetically first - rely on the keyword list being alphabetical.
 
 telephone_directory.html : telephone_directory_pages.html
 	@echo Cat together the HTML preamble, pages and closure.

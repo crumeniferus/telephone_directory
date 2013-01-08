@@ -1,10 +1,10 @@
-h1. Switchboard 
+h1. Switchboard
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Hospital Mortuary|25|||
-|(see-also). See also Bournemouth Hospital Switchboard|
-|Bournemouth Hospital Switchboard|27|1202303626||
-|Dorchester Hospital Switchboard|29|1305251150||
-|Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
-|Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
+(has-see-also). |Bournemouth Hospital Mortuary|25||...|
+|(see-also). _See also_ Bournemouth Hospital Switchboard|
+(has-see-also). |Bournemouth Hospital Switchboard|27|1202303626|...|
+(has-see-also). |Dorchester Hospital Switchboard|29|1305251150|...|
+(has-see-also). |Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
+(has-see-also). |Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
 

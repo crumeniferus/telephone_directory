@@ -1,7 +1,7 @@
-h1. John 
+h1. John
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|John (Jenny) (Mobile)|76|7966433191||
-|John (Landline)|74|425592||
-|John (Mobile)|75|7807920745||
+|John (Jenny) (Mobile)|76|7966433191|...|
+|John (Landline)|74|425592|...|
+|John (Mobile)|75|7807920745|...|
 

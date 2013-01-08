@@ -1,18 +1,18 @@
-h1. Hospital 
+h1. Hospital
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Hospital General Office|26|1202404125||
-|Bournemouth Hospital Mortuary|25|||
-|(see-also). See also Bournemouth Hospital Switchboard|
-|Bournemouth Hospital Switchboard|27|1202303626||
-|Dorchester Hospital Mortuary|28|1305255250||
-|Dorchester Hospital Switchboard|29|1305251150||
-|Poole Hospital Mortuary (Fax)|22|1202442286||
-|Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
-|Poole Hospital Mortuary (Val) (Sue)|23|1202442061||
-|Poole Hospital Patient Property|24|1202442442||
-|Swanage Hospital (Reception)|36|422282||
-|Swanage Hospital (Ward Sister)|37|475013||
-|Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
-|Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
+|Bournemouth Hospital General Office|26|1202404125|...|
+(has-see-also). |Bournemouth Hospital Mortuary|25||...|
+|(see-also). _See also_ Bournemouth Hospital Switchboard|
+(has-see-also). |Bournemouth Hospital Switchboard|27|1202303626|...|
+(has-see-also). |Dorchester Hospital Mortuary|28|1305255250|...|
+(has-see-also). |Dorchester Hospital Switchboard|29|1305251150|...|
+(has-see-also). |Poole Hospital Mortuary (Fax)|22|1202442286|...|
+(has-see-also). |Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
+(has-see-also). |Poole Hospital Mortuary (Val) (Sue)|23|1202442061|...|
+(has-see-also). |Poole Hospital Patient Property|24|1202442442|...|
+(has-see-also). |Swanage Hospital (Reception)|36|422282|...|
+(has-see-also). |Swanage Hospital (Ward Sister)|37|475013|...|
+(has-see-also). |Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
+(has-see-also). |Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
 

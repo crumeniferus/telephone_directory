@@ -21,6 +21,10 @@ th
 	vertical-align:top;
 }
 
+tr.has-see-also
+{
+	border-bottom-style: none;
+}
 tr
 {
 	border-bottom-style: solid;
@@ -28,7 +32,6 @@ tr
 	border-color:#000000;
 	font-weight:100;
 }
-
 tr:hover td
 {
 	background:rgba(0,135,255,0.8);
@@ -45,4 +48,7 @@ td
 	vertical-align:top;
 	width: 200px
 }
-
+td.see-also td
+{
+	border-top-style: none;
+}

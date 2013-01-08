@@ -1,5 +1,5 @@
-h1. Silver 
+h1. Silver
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|James Smith Mobile Silver|57|7751821301||
+|James Smith Mobile Silver|57|7751821301|...|
 

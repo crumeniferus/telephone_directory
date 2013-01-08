@@ -1,491 +1,491 @@
-h1. A.E. 
+h1. A.E.
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|A.E. Jolliffe|12|1202872050||
+|A.E. Jolliffe|12|1202872050|...|
 
-h1. Advertiser 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Advertiser (Newspaper)|51|427428||
-
-h1. Albert 
+h1. Advertiser
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Albert Marsh|14|552107||
+|Swanage Advertiser (Newspaper)|51|427428|...|
 
-h1. and 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Douch and Small|10|1202882936||
-|Ives and Shand|16|1202716500||
-
-h1. Appointments 
+h1. Albert
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Surgery (Appointments)|40|475104||
+|Albert Marsh|14|552107|...|
 
-h1. April 
+h1. and
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|April Flowers (Florists)|49|553999||
+|Douch and Small|10|1202882936|...|
+|Ives and Shand|16|1202716500|...|
 
-h1. Back-up 
+h1. Appointments
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Swanage Surgery (Appointments)|40|475104|...|
+
+h1. April
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|April Flowers (Florists)|49|553999|...|
+
+h1. Back-up
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
 |Purbeck Press (Back-up)|9|423691|Has answering machine|
 
-h1. Black 
+h1. Black
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|James Smith Mobile Black|56|7751821300||
+|James Smith Mobile Black|56|7751821300|...|
 
-h1. Bloom 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bloom (Florists) (Victoria)|46|426197||
-
-h1. Bournemouth 
+h1. Bloom
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057||
-|Bournemouth Coroner (Office)|35|1202789154||
-|Bournemouth Coroner (Secretary) (Geri)|34|1202310049||
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
-|Bournemouth Crematorium|42|1202526238||
-|Bournemouth Hospital General Office|26|1202404125||
-|Bournemouth Hospital Mortuary|25|||
-|See also Bournemouth Hospital Switchboard|
-|Bournemouth Hospital Switchboard|27|1202303626||
+|Bloom (Florists) (Victoria)|46|426197|...|
 
-h1. Charlie 
+h1. Bournemouth
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Charlie|66|423124||
-|Charlie (Mobile)|67|7932480881||
+|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057|...|
+|Bournemouth Coroner (Office)|35|1202789154|...|
+|Bournemouth Coroner (Secretary) (Geri)|34|1202310049|...|
+|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300|...|
+|Bournemouth Crematorium|42|1202526238|...|
+|Bournemouth Hospital General Office|26|1202404125|...|
+(has-see-also). |Bournemouth Hospital Mortuary|25||...|
+|(see-also). _See also_ Bournemouth Hospital Switchboard|
+(has-see-also). |Bournemouth Hospital Switchboard|27|1202303626|...|
 
-h1. Coroner 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057||
-|Bournemouth Coroner (Office)|35|1202789154||
-|Bournemouth Coroner (Secretary) (Geri)|34|1202310049||
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
-
-h1. Council 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Town Council|7|423636||
-
-h1. Crematorium 
+h1. Charlie
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Crematorium|42|1202526238||
-|Poole Crematorium|41|1202261382||
-|Weymouth Crematorium|43|1305786984||
+|Charlie|66|423124|...|
+|Charlie (Mobile)|67|7932480881|...|
 
-h1. Danielle 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|M-Balm (Danielle)|19|7730233011||
-
-h1. Dave 
+h1. Coroner
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Dave (Landline)|72|421132||
-|Dave (Mobile)|73|7812566529||
+|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057|...|
+|Bournemouth Coroner (Office)|35|1202789154|...|
+|Bournemouth Coroner (Secretary) (Geri)|34|1202310049|...|
+|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300|...|
 
-h1. Derek 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Derek (Landline)|62|761442||
-|Derek (Mobile)|63|7845082551||
-
-h1. Direct 
+h1. Council
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057||
+|Swanage Town Council|7|423636|...|
 
-h1. Doctors 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109||
-
-h1. Dorchester 
+h1. Crematorium
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Dorchester Hospital Mortuary|28|1305255250||
-|Dorchester Hospital Switchboard|29|1305251150||
+|Bournemouth Crematorium|42|1202526238|...|
+|Poole Crematorium|41|1202261382|...|
+|Weymouth Crematorium|43|1305786984|...|
 
-h1. Douch 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Douch and Small|10|1202882936||
-
-h1. Fax 
+h1. Danielle
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Hospital Mortuary (Fax)|22|1202442286||
+|M-Balm (Danielle)|19|7730233011|...|
 
-h1. Florists 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|April Flowers (Florists)|49|553999||
-|Bloom (Florists) (Victoria)|46|426197||
-|Perfect Petals (Florists) (Marita) (Landline)|48|423537||
-|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919||
-
-h1. Flowers 
+h1. Dave
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|April Flowers (Florists)|49|553999||
+|Dave (Landline)|72|421132|...|
+|Dave (Mobile)|73|7812566529|...|
 
-h1. Gail 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109||
-
-h1. General 
+h1. Derek
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Hospital General Office|26|1202404125||
+|Derek (Landline)|62|761442|...|
+|Derek (Mobile)|63|7845082551|...|
 
-h1. Geri 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Secretary) (Geri)|34|1202310049||
-
-h1. Gordon 
+h1. Direct
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Gordon (Landline)|70|426970||
-|Gordon (Mobile)|71|7721843373||
+|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057|...|
 
-h1. Holly 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
-
-h1. Hospital 
+h1. Doctors
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Hospital General Office|26|1202404125||
-|Bournemouth Hospital Mortuary|25|||
-|See also Bournemouth Hospital Switchboard|
-|Bournemouth Hospital Switchboard|27|1202303626||
-|Dorchester Hospital Mortuary|28|1305255250||
-|Dorchester Hospital Switchboard|29|1305251150||
-|Poole Hospital Mortuary (Fax)|22|1202442286||
+|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109|...|
+
+h1. Dorchester
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Dorchester Hospital Mortuary|28|1305255250|...|
+|Dorchester Hospital Switchboard|29|1305251150|...|
+
+h1. Douch
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Douch and Small|10|1202882936|...|
+
+h1. Fax
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Poole Hospital Mortuary (Fax)|22|1202442286|...|
+
+h1. Florists
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|April Flowers (Florists)|49|553999|...|
+|Bloom (Florists) (Victoria)|46|426197|...|
+|Perfect Petals (Florists) (Marita) (Landline)|48|423537|...|
+|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919|...|
+
+h1. Flowers
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|April Flowers (Florists)|49|553999|...|
+
+h1. Gail
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109|...|
+
+h1. General
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Bournemouth Hospital General Office|26|1202404125|...|
+
+h1. Geri
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Bournemouth Coroner (Secretary) (Geri)|34|1202310049|...|
+
+h1. Gordon
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Gordon (Landline)|70|426970|...|
+|Gordon (Mobile)|71|7721843373|...|
+
+h1. Holly
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300|...|
+
+h1. Hospital
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Bournemouth Hospital General Office|26|1202404125|...|
+(has-see-also). |Bournemouth Hospital Mortuary|25||...|
+|(see-also). _See also_ Bournemouth Hospital Switchboard|
+(has-see-also). |Bournemouth Hospital Switchboard|27|1202303626|...|
+(has-see-also). |Dorchester Hospital Mortuary|28|1305255250|...|
+(has-see-also). |Dorchester Hospital Switchboard|29|1305251150|...|
+(has-see-also). |Poole Hospital Mortuary (Fax)|22|1202442286|...|
+(has-see-also). |Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
+(has-see-also). |Poole Hospital Mortuary (Val) (Sue)|23|1202442061|...|
+(has-see-also). |Poole Hospital Patient Property|24|1202442442|...|
+(has-see-also). |Swanage Hospital (Reception)|36|422282|...|
+(has-see-also). |Swanage Hospital (Ward Sister)|37|475013|...|
+(has-see-also). |Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
+(has-see-also). |Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
+
+h1. Ian
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Ian (Landline)|64|427107|...|
+|Ian (Mobile)|65|7792075233|...|
+
+h1. Ives
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Ives and Shand|16|1202716500|...|
+
+h1. James
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|James Smith Mobile Black|56|7751821300|...|
+|James Smith Mobile Silver|57|7751821301|...|
+
+h1. Jenny
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|John (Jenny) (Mobile)|76|7966433191|...|
+
+h1. John
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|John (Jenny) (Mobile)|76|7966433191|...|
+|John (Landline)|74|425592|...|
+|John (Mobile)|75|7807920745|...|
+
+h1. Jolliffe
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|A.E. Jolliffe|12|1202872050|...|
+
+h1. Julian
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057|...|
+
+h1. Landline
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Dave (Landline)|72|421132|...|
+|Derek (Landline)|62|761442|...|
+|Gordon (Landline)|70|426970|...|
+|Ian (Landline)|64|427107|...|
+|John (Landline)|74|425592|...|
+|Lew (Landline)|77|425044|...|
+|Malcolm (Landline)|60|424959|...|
+|Mike (Landline)|68|424041|...|
+|Perfect Petals (Florists) (Marita) (Landline)|48|423537|...|
+
+h1. Lesley
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Lesley Shand|18|1202658833|...|
+
+h1. Lew
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Lew (Landline)|77|425044|...|
+|Lew (Mobile)|78|7976519326|...|
+
+h1. Line
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057|...|
+
+h1. Lodge
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300|...|
+
+h1. M-Balm
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|M-Balm (Danielle)|19|7730233011|...|
+|M-Balm (Matt)|20|7821300011|...|
+
+h1. Main
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
 |Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
-|Poole Hospital Mortuary (Val) (Sue)|23|1202442061||
-|Poole Hospital Patient Property|24|1202442442||
-|Swanage Hospital (Reception)|36|422282||
-|Swanage Hospital (Ward Sister)|37|475013||
-|Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
-|Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
 
-h1. Ian 
+h1. Malcolm
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Ian (Landline)|64|427107||
-|Ian (Mobile)|65|7792075233||
+|Malcolm (Landline)|60|424959|...|
+|Malcolm (Mobile)|61|7941190316|...|
 
-h1. Ives 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Ives and Shand|16|1202716500||
-
-h1. James 
+h1. Marita
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|James Smith Mobile Black|56|7751821300||
-|James Smith Mobile Silver|57|7751821301||
+|Perfect Petals (Florists) (Marita) (Landline)|48|423537|...|
+|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919|...|
 
-h1. Jenny 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|John (Jenny) (Mobile)|76|7966433191||
-
-h1. John 
+h1. Marsh
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|John (Jenny) (Mobile)|76|7966433191||
-|John (Landline)|74|425592||
-|John (Mobile)|75|7807920745||
+|Albert Marsh|14|552107|...|
 
-h1. Jolliffe 
+h1. Matt
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|A.E. Jolliffe|12|1202872050||
+|M-Balm (Matt)|20|7821300011|...|
 
-h1. Julian 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057||
-
-h1. Landline 
+h1. Mike
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Dave (Landline)|72|421132||
-|Derek (Landline)|62|761442||
-|Gordon (Landline)|70|426970||
-|Ian (Landline)|64|427107||
-|John (Landline)|74|425592||
-|Lew (Landline)|77|425044||
-|Malcolm (Landline)|60|424959||
-|Mike (Landline)|68|424041||
-|Perfect Petals (Florists) (Marita) (Landline)|48|423537||
+|Mike (Landline)|68|424041|...|
+|Mike (Mobile)|69|7981274383|...|
 
-h1. Lesley 
+h1. Mobile
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Lesley Shand|18|1202658833||
+|Charlie (Mobile)|67|7932480881|...|
+|Dave (Mobile)|73|7812566529|...|
+|Derek (Mobile)|63|7845082551|...|
+|Gordon (Mobile)|71|7721843373|...|
+|Ian (Mobile)|65|7792075233|...|
+|James Smith Mobile Black|56|7751821300|...|
+|James Smith Mobile Silver|57|7751821301|...|
+|John (Jenny) (Mobile)|76|7966433191|...|
+|John (Mobile)|75|7807920745|...|
+|Lew (Mobile)|78|7976519326|...|
+|Malcolm (Mobile)|61|7941190316|...|
+|Mike (Mobile)|69|7981274383|...|
+|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919|...|
 
-h1. Lew 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Lew (Landline)|77|425044||
-|Lew (Mobile)|78|7976519326||
-
-h1. Line 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057||
-
-h1. Lodge 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
-
-h1. M-Balm 
+h1. Mortuary
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|M-Balm (Danielle)|19|7730233011||
-|M-Balm (Matt)|20|7821300011||
+|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300|...|
+(has-see-also). |Bournemouth Hospital Mortuary|25||...|
+|(see-also). _See also_ Bournemouth Hospital Switchboard|
+(has-see-also). |Dorchester Hospital Mortuary|28|1305255250|...|
+(has-see-also). |Poole Hospital Mortuary (Fax)|22|1202442286|...|
+(has-see-also). |Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
+(has-see-also). |Poole Hospital Mortuary (Val) (Sue)|23|1202442061|...|
+(has-see-also). |Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
+(has-see-also). |Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
 
-h1. Main 
+h1. Name
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
+(has-see-also). |Name|Memory|Number|Notes|
+|(see-also). _See also_ Cross reference|
+
+h1. Newspaper
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Swanage Advertiser (Newspaper)|51|427428|...|
+
+h1. Office
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Bournemouth Coroner (Office)|35|1202789154|...|
+|Bournemouth Hospital General Office|26|1202404125|...|
+
+h1. Patient
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Poole Hospital Patient Property|24|1202442442|...|
+
+h1. Perfect
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Perfect Petals (Florists) (Marita) (Landline)|48|423537|...|
+|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919|...|
+
+h1. Petals
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Perfect Petals (Florists) (Marita) (Landline)|48|423537|...|
+|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919|...|
+
+h1. Poole
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Poole Crematorium|41|1202261382|...|
+|Poole Hospital Mortuary (Fax)|22|1202442286|...|
 |Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
+|Poole Hospital Mortuary (Val) (Sue)|23|1202442061|...|
+|Poole Hospital Patient Property|24|1202442442|...|
 
-h1. Malcolm 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Malcolm (Landline)|60|424959||
-|Malcolm (Mobile)|61|7941190316||
-
-h1. Marita 
+h1. Press
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Perfect Petals (Florists) (Marita) (Landline)|48|423537||
-|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919||
-
-h1. Marsh 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Albert Marsh|14|552107||
-
-h1. Matt 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|M-Balm (Matt)|20|7821300011||
-
-h1. Mike 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Mike (Landline)|68|424041||
-|Mike (Mobile)|69|7981274383||
-
-h1. Mobile 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Charlie (Mobile)|67|7932480881||
-|Dave (Mobile)|73|7812566529||
-|Derek (Mobile)|63|7845082551||
-|Gordon (Mobile)|71|7721843373||
-|Ian (Mobile)|65|7792075233||
-|James Smith Mobile Black|56|7751821300||
-|James Smith Mobile Silver|57|7751821301||
-|John (Jenny) (Mobile)|76|7966433191||
-|John (Mobile)|75|7807920745||
-|Lew (Mobile)|78|7976519326||
-|Malcolm (Mobile)|61|7941190316||
-|Mike (Mobile)|69|7981274383||
-|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919||
-
-h1. Mortuary 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
-|Bournemouth Hospital Mortuary|25|||
-|See also Bournemouth Hospital Switchboard|
-|Dorchester Hospital Mortuary|28|1305255250||
-|Poole Hospital Mortuary (Fax)|22|1202442286||
-|Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
-|Poole Hospital Mortuary (Val) (Sue)|23|1202442061||
-|Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
-|Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
-
-h1. Name 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Name|Memory|Number|Notes|
-|See also Cross reference|
-
-h1. Newspaper 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Advertiser (Newspaper)|51|427428||
-
-h1. Office 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Office)|35|1202789154||
-|Bournemouth Hospital General Office|26|1202404125||
-
-h1. Patient 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Hospital Patient Property|24|1202442442||
-
-h1. Perfect 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Perfect Petals (Florists) (Marita) (Landline)|48|423537||
-|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919||
-
-h1. Petals 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Perfect Petals (Florists) (Marita) (Landline)|48|423537||
-|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919||
-
-h1. Poole 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Crematorium|41|1202261382||
-|Poole Hospital Mortuary (Fax)|22|1202442286||
-|Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
-|Poole Hospital Mortuary (Val) (Sue)|23|1202442061||
-|Poole Hospital Patient Property|24|1202442442||
-
-h1. Press 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Purbeck Press|8|7968824129||
+|Purbeck Press|8|7968824129|...|
 |Purbeck Press (Back-up)|9|423691|Has answering machine|
 
-h1. Property 
+h1. Property
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Hospital Patient Property|24|1202442442||
+|Poole Hospital Patient Property|24|1202442442|...|
 
-h1. Purbeck 
+h1. Purbeck
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Purbeck Press|8|7968824129||
+|Purbeck Press|8|7968824129|...|
 |Purbeck Press (Back-up)|9|423691|Has answering machine|
 
-h1. Reception 
+h1. Reception
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Hospital (Reception)|36|422282||
-|Swanage Surgery (Reception)|39|422231||
+|Swanage Hospital (Reception)|36|422282|...|
+|Swanage Surgery (Reception)|39|422231|...|
 
-h1. Secretary 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Secretary) (Geri)|34|1202310049||
-|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109||
-
-h1. Shand 
+h1. Secretary
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Ives and Shand|16|1202716500||
-|Lesley Shand|18|1202658833||
+|Bournemouth Coroner (Secretary) (Geri)|34|1202310049|...|
+|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109|...|
 
-h1. Silver 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|James Smith Mobile Silver|57|7751821301||
-
-h1. Sister 
+h1. Shand
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Hospital (Ward Sister)|37|475013||
+|Ives and Shand|16|1202716500|...|
+|Lesley Shand|18|1202658833|...|
 
-h1. Small 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Douch and Small|10|1202882936||
-
-h1. Smith 
+h1. Silver
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|James Smith Mobile Black|56|7751821300||
-|James Smith Mobile Silver|57|7751821301||
+|James Smith Mobile Silver|57|7751821301|...|
 
-h1. Sue 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Hospital Mortuary (Val) (Sue)|23|1202442061||
-
-h1. Surgery 
+h1. Sister
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Surgery (Appointments)|40|475104||
-|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109||
-|Swanage Surgery (Reception)|39|422231||
+|Swanage Hospital (Ward Sister)|37|475013|...|
 
-h1. Swanage 
+h1. Small
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Advertiser (Newspaper)|51|427428||
-|Swanage Hospital (Reception)|36|422282||
-|Swanage Hospital (Ward Sister)|37|475013||
-|Swanage Surgery (Appointments)|40|475104||
-|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109||
-|Swanage Surgery (Reception)|39|422231||
-|Swanage Town Council|7|423636||
+|Douch and Small|10|1202882936|...|
 
-h1. Switchboard 
+h1. Smith
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Hospital Mortuary|25|||
-|See also Bournemouth Hospital Switchboard|
-|Bournemouth Hospital Switchboard|27|1202303626||
-|Dorchester Hospital Switchboard|29|1305251150||
-|Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
-|Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
+|James Smith Mobile Black|56|7751821300|...|
+|James Smith Mobile Silver|57|7751821301|...|
 
-h1. Town 
+h1. Sue
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Town Council|7|423636||
+|Poole Hospital Mortuary (Val) (Sue)|23|1202442061|...|
 
-h1. Tree 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
-
-h1. Val 
+h1. Surgery
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Hospital Mortuary (Val) (Sue)|23|1202442061||
+|Swanage Surgery (Appointments)|40|475104|...|
+|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109|...|
+|Swanage Surgery (Reception)|39|422231|...|
 
-h1. Victoria 
-
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bloom (Florists) (Victoria)|46|426197||
-
-h1. Ward 
+h1. Swanage
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Hospital (Ward Sister)|37|475013||
+|Swanage Advertiser (Newspaper)|51|427428|...|
+|Swanage Hospital (Reception)|36|422282|...|
+|Swanage Hospital (Ward Sister)|37|475013|...|
+|Swanage Surgery (Appointments)|40|475104|...|
+|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109|...|
+|Swanage Surgery (Reception)|39|422231|...|
+|Swanage Town Council|7|423636|...|
 
-h1. Weymouth 
+h1. Switchboard
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Weymouth Crematorium|43|1305786984||
+(has-see-also). |Bournemouth Hospital Mortuary|25||...|
+|(see-also). _See also_ Bournemouth Hospital Switchboard|
+(has-see-also). |Bournemouth Hospital Switchboard|27|1202303626|...|
+(has-see-also). |Dorchester Hospital Switchboard|29|1305251150|...|
+(has-see-also). |Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
+(has-see-also). |Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
+
+h1. Town
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Swanage Town Council|7|423636|...|
+
+h1. Tree
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300|...|
+
+h1. Val
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Poole Hospital Mortuary (Val) (Sue)|23|1202442061|...|
+
+h1. Victoria
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Bloom (Florists) (Victoria)|46|426197|...|
+
+h1. Ward
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Swanage Hospital (Ward Sister)|37|475013|...|
+
+h1. Weymouth
+
+|_. Name |_. Shortcode |_. Number |_. Notes |
+|Weymouth Crematorium|43|1305786984|...|
 |Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
 |Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
 

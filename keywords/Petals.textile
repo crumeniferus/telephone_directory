@@ -1,6 +1,6 @@
-h1. Petals 
+h1. Petals
 
 |_. Name |_. Shortcode |_. Number |_. Notes |
-|Perfect Petals (Florists) (Marita) (Landline)|48|423537||
-|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919||
+|Perfect Petals (Florists) (Marita) (Landline)|48|423537|...|
+|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919|...|
 
