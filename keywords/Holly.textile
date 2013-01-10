@@ -1,5 +1,5 @@
 h1. Holly
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner's Mortuary (Holly Tree Lodge)|(shortcode). 32|(tel_number). 1202303300|(empty_notes). ...|
 

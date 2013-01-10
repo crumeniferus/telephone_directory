@@ -1,7 +1,7 @@
 h1. Weymouth
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Weymouth Crematorium|43|1305786984|...|
-|Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
-|Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Weymouth Crematorium|(shortcode). 43|(tel_number). 1305786984|(empty_notes). ...|
+|(name). Weymouth Hospital Mortuary|(shortcode). 30|(tel_number). 1305760022|(notes). Could be Switchboard|
+|(name). Weymouth Hospital Switchboard|(shortcode). 31|(tel_number). 1305760022|(notes). Could be Mortuary|
 

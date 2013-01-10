@@ -1,6 +1,6 @@
 h1. Name
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-(has-see-also). |Name|Memory|Number|Notes|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+(has-see-also). |(name). Name|(shortcode). Memory|(tel_number). Number|(notes). Notes|
 |(see-also). _See also_ Cross reference|
 

@@ -1,17 +1,17 @@
 h1. Mobile
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Charlie (Mobile)|67|7932480881|...|
-|Dave (Mobile)|73|7812566529|...|
-|Derek (Mobile)|63|7845082551|...|
-|Gordon (Mobile)|71|7721843373|...|
-|Ian (Mobile)|65|7792075233|...|
-|James Smith Mobile Black|56|7751821300|...|
-|James Smith Mobile Silver|57|7751821301|...|
-|John (Jenny) (Mobile)|76|7966433191|...|
-|John (Mobile)|75|7807920745|...|
-|Lew (Mobile)|78|7976519326|...|
-|Malcolm (Mobile)|61|7941190316|...|
-|Mike (Mobile)|69|7981274383|...|
-|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Charlie (Mobile)|(shortcode). 67|(tel_number). 7932480881|(empty_notes). ...|
+|(name). Dave (Mobile)|(shortcode). 73|(tel_number). 7812566529|(empty_notes). ...|
+|(name). Derek (Mobile)|(shortcode). 63|(tel_number). 7845082551|(empty_notes). ...|
+|(name). Gordon (Mobile)|(shortcode). 71|(tel_number). 7721843373|(empty_notes). ...|
+|(name). Ian (Mobile)|(shortcode). 65|(tel_number). 7792075233|(empty_notes). ...|
+|(name). James Smith Mobile Black|(shortcode). 56|(tel_number). 7751821300|(empty_notes). ...|
+|(name). James Smith Mobile Silver|(shortcode). 57|(tel_number). 7751821301|(empty_notes). ...|
+|(name). John (Jenny) (Mobile)|(shortcode). 76|(tel_number). 7966433191|(empty_notes). ...|
+|(name). John (Mobile)|(shortcode). 75|(tel_number). 7807920745|(empty_notes). ...|
+|(name). Lew (Mobile)|(shortcode). 78|(tel_number). 7976519326|(empty_notes). ...|
+|(name). Malcolm (Mobile)|(shortcode). 61|(tel_number). 7941190316|(empty_notes). ...|
+|(name). Mike (Mobile)|(shortcode). 69|(tel_number). 7981274383|(empty_notes). ...|
+|(name). Perfect Petals (Florists) (Marita) (Mobile)|(shortcode). 47|(tel_number). 7791467919|(empty_notes). ...|
 

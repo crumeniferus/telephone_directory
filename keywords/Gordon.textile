@@ -1,6 +1,6 @@
 h1. Gordon
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Gordon (Landline)|70|426970|...|
-|Gordon (Mobile)|71|7721843373|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Gordon (Landline)|(shortcode). 70|(tel_number). 426970|(empty_notes). ...|
+|(name). Gordon (Mobile)|(shortcode). 71|(tel_number). 7721843373|(empty_notes). ...|
 

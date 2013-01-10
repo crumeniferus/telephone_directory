@@ -1,6 +1,6 @@
 h1. Dorchester
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Dorchester Hospital Mortuary|28|1305255250|...|
-|Dorchester Hospital Switchboard|29|1305251150|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Dorchester Hospital Mortuary|(shortcode). 28|(tel_number). 1305255250|(empty_notes). ...|
+|(name). Dorchester Hospital Switchboard|(shortcode). 29|(tel_number). 1305251150|(empty_notes). ...|
 

@@ -1,6 +1,6 @@
 h1. Lew
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Lew (Landline)|77|425044|...|
-|Lew (Mobile)|78|7976519326|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Lew (Landline)|(shortcode). 77|(tel_number). 425044|(empty_notes). ...|
+|(name). Lew (Mobile)|(shortcode). 78|(tel_number). 7976519326|(empty_notes). ...|
 

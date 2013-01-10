@@ -1,7 +1,7 @@
 h1. John
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|John (Jenny) (Mobile)|76|7966433191|...|
-|John (Landline)|74|425592|...|
-|John (Mobile)|75|7807920745|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). John (Jenny) (Mobile)|(shortcode). 76|(tel_number). 7966433191|(empty_notes). ...|
+|(name). John (Landline)|(shortcode). 74|(tel_number). 425592|(empty_notes). ...|
+|(name). John (Mobile)|(shortcode). 75|(tel_number). 7807920745|(empty_notes). ...|
 

@@ -1,6 +1,6 @@
 h1. Mike
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Mike (Landline)|68|424041|...|
-|Mike (Mobile)|69|7981274383|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Mike (Landline)|(shortcode). 68|(tel_number). 424041|(empty_notes). ...|
+|(name). Mike (Mobile)|(shortcode). 69|(tel_number). 7981274383|(empty_notes). ...|
 

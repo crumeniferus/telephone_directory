@@ -1,6 +1,6 @@
 h1. Purbeck
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Purbeck Press|8|7968824129|...|
-|Purbeck Press (Back-up)|9|423691|Has answering machine|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Purbeck Press|(shortcode). 8|(tel_number). 7968824129|(empty_notes). ...|
+|(name). Purbeck Press (Back-up)|(shortcode). 9|(tel_number). 423691|(notes). Has answering machine|
 

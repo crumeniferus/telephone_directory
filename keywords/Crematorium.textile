@@ -1,7 +1,7 @@
 h1. Crematorium
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Crematorium|42|1202526238|...|
-|Poole Crematorium|41|1202261382|...|
-|Weymouth Crematorium|43|1305786984|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Crematorium|(shortcode). 42|(tel_number). 1202526238|(empty_notes). ...|
+|(name). Poole Crematorium|(shortcode). 41|(tel_number). 1202261382|(empty_notes). ...|
+|(name). Weymouth Crematorium|(shortcode). 43|(tel_number). 1305786984|(empty_notes). ...|
 

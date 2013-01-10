@@ -1,6 +1,6 @@
 h1. Reception
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Hospital (Reception)|36|422282|...|
-|Swanage Surgery (Reception)|39|422231|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Hospital (Reception)|(shortcode). 36|(tel_number). 422282|(empty_notes). ...|
+|(name). Swanage Surgery (Reception)|(shortcode). 39|(tel_number). 422231|(empty_notes). ...|
 

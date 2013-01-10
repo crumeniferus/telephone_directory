@@ -1,5 +1,5 @@
 h1. Matt
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|M-Balm (Matt)|20|7821300011|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). M-Balm (Matt)|(shortcode). 20|(tel_number). 7821300011|(empty_notes). ...|
 

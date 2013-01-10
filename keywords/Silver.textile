@@ -1,5 +1,5 @@
 h1. Silver
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|James Smith Mobile Silver|57|7751821301|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). James Smith Mobile Silver|(shortcode). 57|(tel_number). 7751821301|(empty_notes). ...|
 

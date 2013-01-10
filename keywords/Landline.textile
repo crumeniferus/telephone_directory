@@ -1,13 +1,13 @@
 h1. Landline
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Dave (Landline)|72|421132|...|
-|Derek (Landline)|62|761442|...|
-|Gordon (Landline)|70|426970|...|
-|Ian (Landline)|64|427107|...|
-|John (Landline)|74|425592|...|
-|Lew (Landline)|77|425044|...|
-|Malcolm (Landline)|60|424959|...|
-|Mike (Landline)|68|424041|...|
-|Perfect Petals (Florists) (Marita) (Landline)|48|423537|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Dave (Landline)|(shortcode). 72|(tel_number). 421132|(empty_notes). ...|
+|(name). Derek (Landline)|(shortcode). 62|(tel_number). 761442|(empty_notes). ...|
+|(name). Gordon (Landline)|(shortcode). 70|(tel_number). 426970|(empty_notes). ...|
+|(name). Ian (Landline)|(shortcode). 64|(tel_number). 427107|(empty_notes). ...|
+|(name). John (Landline)|(shortcode). 74|(tel_number). 425592|(empty_notes). ...|
+|(name). Lew (Landline)|(shortcode). 77|(tel_number). 425044|(empty_notes). ...|
+|(name). Malcolm (Landline)|(shortcode). 60|(tel_number). 424959|(empty_notes). ...|
+|(name). Mike (Landline)|(shortcode). 68|(tel_number). 424041|(empty_notes). ...|
+|(name). Perfect Petals (Florists) (Marita) (Landline)|(shortcode). 48|(tel_number). 423537|(empty_notes). ...|
 

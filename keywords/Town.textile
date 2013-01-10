@@ -1,5 +1,5 @@
 h1. Town
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Town Council|7|423636|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Town Council|(shortcode). 7|(tel_number). 423636|(empty_notes). ...|
 

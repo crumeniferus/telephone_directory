@@ -1,6 +1,6 @@
 h1. Ian
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Ian (Landline)|64|427107|...|
-|Ian (Mobile)|65|7792075233|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Ian (Landline)|(shortcode). 64|(tel_number). 427107|(empty_notes). ...|
+|(name). Ian (Mobile)|(shortcode). 65|(tel_number). 7792075233|(empty_notes). ...|
 

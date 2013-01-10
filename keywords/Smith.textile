@@ -1,6 +1,6 @@
 h1. Smith
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|James Smith Mobile Black|56|7751821300|...|
-|James Smith Mobile Silver|57|7751821301|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). James Smith Mobile Black|(shortcode). 56|(tel_number). 7751821300|(empty_notes). ...|
+|(name). James Smith Mobile Silver|(shortcode). 57|(tel_number). 7751821301|(empty_notes). ...|
 

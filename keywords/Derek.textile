@@ -1,6 +1,6 @@
 h1. Derek
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Derek (Landline)|62|761442|...|
-|Derek (Mobile)|63|7845082551|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Derek (Landline)|(shortcode). 62|(tel_number). 761442|(empty_notes). ...|
+|(name). Derek (Mobile)|(shortcode). 63|(tel_number). 7845082551|(empty_notes). ...|
 

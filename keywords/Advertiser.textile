@@ -1,5 +1,5 @@
 h1. Advertiser
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Advertiser (Newspaper)|51|427428|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Advertiser (Newspaper)|(shortcode). 51|(tel_number). 427428|(empty_notes). ...|
 

@@ -1,5 +1,5 @@
 h1. General
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Hospital General Office|26|1202404125|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Hospital General Office|(shortcode). 26|(tel_number). 1202404125|(empty_notes). ...|
 

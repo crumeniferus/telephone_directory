@@ -1,11 +1,11 @@
 h1. Swanage
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Advertiser (Newspaper)|51|427428|...|
-|Swanage Hospital (Reception)|36|422282|...|
-|Swanage Hospital (Ward Sister)|37|475013|...|
-|Swanage Surgery (Appointments)|40|475104|...|
-|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109|...|
-|Swanage Surgery (Reception)|39|422231|...|
-|Swanage Town Council|7|423636|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Advertiser (Newspaper)|(shortcode). 51|(tel_number). 427428|(empty_notes). ...|
+|(name). Swanage Hospital (Reception)|(shortcode). 36|(tel_number). 422282|(empty_notes). ...|
+|(name). Swanage Hospital (Ward Sister)|(shortcode). 37|(tel_number). 475013|(empty_notes). ...|
+|(name). Swanage Surgery (Appointments)|(shortcode). 40|(tel_number). 475104|(empty_notes). ...|
+|(name). Swanage Surgery (Doctors' Secretary) (Gail)|(shortcode). 38|(tel_number). 475109|(empty_notes). ...|
+|(name). Swanage Surgery (Reception)|(shortcode). 39|(tel_number). 422231|(empty_notes). ...|
+|(name). Swanage Town Council|(shortcode). 7|(tel_number). 423636|(empty_notes). ...|
 

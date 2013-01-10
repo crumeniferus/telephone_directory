@@ -1,8 +1,8 @@
 h1. Florists
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|April Flowers (Florists)|49|553999|...|
-|Bloom (Florists) (Victoria)|46|426197|...|
-|Perfect Petals (Florists) (Marita) (Landline)|48|423537|...|
-|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). April Flowers (Florists)|(shortcode). 49|(tel_number). 553999|(empty_notes). ...|
+|(name). Bloom (Florists) (Victoria)|(shortcode). 46|(tel_number). 426197|(empty_notes). ...|
+|(name). Perfect Petals (Florists) (Marita) (Landline)|(shortcode). 48|(tel_number). 423537|(empty_notes). ...|
+|(name). Perfect Petals (Florists) (Marita) (Mobile)|(shortcode). 47|(tel_number). 7791467919|(empty_notes). ...|
 

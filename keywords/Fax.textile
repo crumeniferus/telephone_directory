@@ -1,5 +1,5 @@
 h1. Fax
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Hospital Mortuary (Fax)|22|1202442286|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Poole Hospital Mortuary (Fax)|(shortcode). 22|(tel_number). 1202442286|(empty_notes). ...|
 

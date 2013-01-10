@@ -1,6 +1,6 @@
 h1. Office
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Office)|35|1202789154|...|
-|Bournemouth Hospital General Office|26|1202404125|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner (Office)|(shortcode). 35|(tel_number). 1202789154|(empty_notes). ...|
+|(name). Bournemouth Hospital General Office|(shortcode). 26|(tel_number). 1202404125|(empty_notes). ...|
 

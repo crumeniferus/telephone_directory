@@ -1,5 +1,5 @@
 h1. Gail
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Surgery (Doctors' Secretary) (Gail)|(shortcode). 38|(tel_number). 475109|(empty_notes). ...|
 

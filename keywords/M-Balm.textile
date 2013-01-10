@@ -1,6 +1,6 @@
 h1. M-Balm
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|M-Balm (Danielle)|19|7730233011|...|
-|M-Balm (Matt)|20|7821300011|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). M-Balm (Danielle)|(shortcode). 19|(tel_number). 7730233011|(empty_notes). ...|
+|(name). M-Balm (Matt)|(shortcode). 20|(tel_number). 7821300011|(empty_notes). ...|
 

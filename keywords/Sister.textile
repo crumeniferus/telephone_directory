@@ -1,5 +1,5 @@
 h1. Sister
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Hospital (Ward Sister)|37|475013|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Hospital (Ward Sister)|(shortcode). 37|(tel_number). 475013|(empty_notes). ...|
 

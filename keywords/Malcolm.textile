@@ -1,6 +1,6 @@
 h1. Malcolm
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Malcolm (Landline)|60|424959|...|
-|Malcolm (Mobile)|61|7941190316|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Malcolm (Landline)|(shortcode). 60|(tel_number). 424959|(empty_notes). ...|
+|(name). Malcolm (Mobile)|(shortcode). 61|(tel_number). 7941190316|(empty_notes). ...|
 

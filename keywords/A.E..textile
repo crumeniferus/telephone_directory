@@ -1,5 +1,5 @@
 h1. A.E.
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|A.E. Jolliffe|12|1202872050|...|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). A.E. Jolliffe|(shortcode). 12|(tel_number). 1202872050|(empty_notes). ...|
 

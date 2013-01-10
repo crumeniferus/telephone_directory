@@ -1,2 +1,2 @@
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
