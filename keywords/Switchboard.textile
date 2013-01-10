@@ -1,7 +1,7 @@
 h1. Switchboard
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
-(has-see-also). |(name). Bournemouth Hospital Mortuary|(shortcode). 25|(tel_number). |(empty_notes). ...|
+(has-see-also). |(name). Bournemouth Hospital Mortuary|(shortcode). 25|(tel_number). Not yet known|(empty_notes). ...|
 |(see-also). _See also_ Bournemouth Hospital Switchboard|
 |(name). Bournemouth Hospital Switchboard|(shortcode). 27|(tel_number). 1202303626|(empty_notes). ...|
 |(name). Dorchester Hospital Switchboard|(shortcode). 29|(tel_number). 1305251150|(empty_notes). ...|

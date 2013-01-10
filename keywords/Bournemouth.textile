@@ -7,7 +7,7 @@ h1. Bournemouth
 |(name). Bournemouth Coroner's Mortuary (Holly Tree Lodge)|(shortcode). 32|(tel_number). 1202303300|(empty_notes). ...|
 |(name). Bournemouth Crematorium|(shortcode). 42|(tel_number). 1202526238|(empty_notes). ...|
 |(name). Bournemouth Hospital General Office|(shortcode). 26|(tel_number). 1202404125|(empty_notes). ...|
-(has-see-also). |(name). Bournemouth Hospital Mortuary|(shortcode). 25|(tel_number). |(empty_notes). ...|
+(has-see-also). |(name). Bournemouth Hospital Mortuary|(shortcode). 25|(tel_number). Not yet known|(empty_notes). ...|
 |(see-also). _See also_ Bournemouth Hospital Switchboard|
 |(name). Bournemouth Hospital Switchboard|(shortcode). 27|(tel_number). 1202303626|(empty_notes). ...|
 

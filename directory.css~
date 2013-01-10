@@ -13,10 +13,11 @@ th.name
 th.shortcode
 {
 	width: 100px;
+	text-align: center;
 }
 th.tel_number
 {
-	width: 100px;
+	width: 110px;
 }
 th.notes
 {

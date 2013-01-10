@@ -2,7 +2,7 @@ h1. Hospital
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Bournemouth Hospital General Office|(shortcode). 26|(tel_number). 1202404125|(empty_notes). ...|
-(has-see-also). |(name). Bournemouth Hospital Mortuary|(shortcode). 25|(tel_number). |(empty_notes). ...|
+(has-see-also). |(name). Bournemouth Hospital Mortuary|(shortcode). 25|(tel_number). Not yet known|(empty_notes). ...|
 |(see-also). _See also_ Bournemouth Hospital Switchboard|
 |(name). Bournemouth Hospital Switchboard|(shortcode). 27|(tel_number). 1202303626|(empty_notes). ...|
 |(name). Dorchester Hospital Mortuary|(shortcode). 28|(tel_number). 1305255250|(empty_notes). ...|

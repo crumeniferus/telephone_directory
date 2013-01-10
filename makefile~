@@ -55,7 +55,7 @@ $(keyword_CSVs) : keywords.txt telephone_data.csv
 
 keywords.txt : telephone_data.csv
 #	cut -d, -f3 telephone_data.csv | tr -d "[()]" | mawk "{gsub(//,"X");print}" | tr -d "'" | tr "[:space:]" \n | sort | uniq > keywords.txt
-	cut -d, -f3 telephone_data.csv | tr -d "[()]" | mawk -f clean_possessives.mawk | tr -d "'" | tr "[:space:]" \n | sort | uniq > keywords.txt
+	cut -d, -f3 telephone_data.csv | tr -d "[()]" | mawk -f clean_possessives.mawk | tr -d "'" | tr "[:space:]" "\n" | sort | uniq > keywords.txt
 
 telephone_data.csv :
 
