@@ -1,0 +1,5 @@
+rem For HREF tag ID's, remove all punctuation and symbols, and convert to all lowercase.
+{keyword=$1;
+id=tolower(keyword);
+id=gsub([^a-z0-9],"",id);
+print "\"(index-entry) "keyword"\":#"id;}
