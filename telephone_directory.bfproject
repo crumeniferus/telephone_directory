@@ -50,16 +50,17 @@ files: F:\\Office\\Ian Pending\\telephones\\contrib\\html_preamble.html
 files: F:\\Office\\Ian Pending\\telephones\\contrib\\html_footer.html
 files: F:\\Office\\Ian Pending\\telephones\\directory.css
 files: F:\\Office\\Ian Pending\\telephones\\README.md
+files: F:\\Office\\Ian Pending\\telephones\\lines2links.mawk
 snr_replacetype: 0
-recent_files: file:///F:/Office/Ian%20Pending/telephones/README.md
-recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/html_footer.html
-recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/textile_header.textile
-recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/html_preamble.html
-recent_files: file:///F:/Office/Ian%20Pending/telephones/makefile
-recent_files: file:///F:/Office/Ian%20Pending/telephones/directory.css
-recent_files: file:///F:/Office/Ian%20Pending/telephones/textile2html.pl
 recent_files: file:///F:/Office/Ian%20Pending/telephones/csv2textile.mawk
 recent_files: file:///F:/Office/Ian%20Pending/telephones/clean_possessives.mawk
+recent_files: file:///F:/Office/Ian%20Pending/telephones/textile2html.pl
+recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/textile_header.textile
+recent_files: file:///F:/Office/Ian%20Pending/telephones/makefile
+recent_files: file:///F:/Office/Ian%20Pending/telephones/directory.css
+recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/html_footer.html
+recent_files: file:///F:/Office/Ian%20Pending/telephones/lines2links.mawk
+recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/html_preamble.html
 recent_files: file:///F:/Office/Ian%20Pending/telephones/telephone_directory_pages.html
 recent_files: file:///F:/Office/Ian%20Pending/telephones/telephone_data.csv
 charmap_block: 1
@@ -86,7 +87,6 @@ view_left_panel: 1
 htmlbar_thumbnailwidth: 300
 bmarks: ::F\:\\Office\\Ian Pending\\telephones\\textile2html.pl:549::679:
 bmarks: ::F\:\\Office\\Ian Pending\\telephones\\textile2html.pl:348::679:
-bmarks: ::F\:\\Office\\Ian Pending\\telephones\\makefile:2483:)\::2800:
 fb_show_backup_f: 0
 view_line_numbers: 1
 colorlist: #99CFFF

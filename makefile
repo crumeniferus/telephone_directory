@@ -24,7 +24,7 @@ directory: telephone_directory.pdf telephone_directory.html
 telephone_directory.pdf : $(keyword_PDFs)
 #	@echo use pdftk to cat all the files together. Also need to ensure they are sorted alphabetically first - rely on the keyword list being alphabetical.
 
-telephone_directory.html : telephone_directory_pages.html
+telephone_directory.html : telephone_directory_pages.html telephone_index.html
 	@echo Cat together the HTML preamble, pages and closure.
 	cat ./contrib/html_preamble.html > $@
 	cat ./telephone_directory_pages.html >> $@
@@ -35,6 +35,12 @@ telephone_directory_pages.html: %.html : %.textile
 
 telephone_directory_pages.textile: $(keyword_TEXTILES)
 	cat $(keyword_TEXTILEs) > $@
+	
+telephone_index.html: %.html : %.textile
+	$(PERL) textile2html.pl $<
+
+telephone_index.textile: keywords.txt  
+	mawk -f lines2links.mawk keywords.txt > telephone_index.textile
 
 # This next rule could be broadened to %.pdf, with a filter to exclude the keyword files.  
 $(keyword_PDFs) : %.pdf : %.textile
