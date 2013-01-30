@@ -1,491 +1,511 @@
-h1(#AE). A.E.
+h1(#ae). A.E.
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|A.E. Jolliffe|12|1202872050||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). A.E. Jolliffe|(shortcode). 12|(tel_number). 1202872050|(empty_notes). ...|
 
-h1(#Advertiser). Advertiser
+h1(#advertiser). Advertiser
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Advertiser (Newspaper)|51|427428||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Advertiser (Newspaper)|(shortcode). 51|(tel_number). 427428|(empty_notes). ...|
 
-h1(#Albert). Albert
+h1(#albert). Albert
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Albert Marsh|14|552107||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Albert Marsh|(shortcode). 14|(tel_number). 552107|(empty_notes). ...|
 
 h1(#and). and
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Douch and Small|10|1202882936||
-|Ives and Shand|16|1202716500||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Douch and Small|(shortcode). 10|(tel_number). 1202882936|(empty_notes). ...|
+|(name). Ives and Shand|(shortcode). 16|(tel_number). 1202716500|(empty_notes). ...|
 
-h1(#Appointments). Appointments
+h1(#appointments). Appointments
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Surgery (Appointments)|40|475104||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Surgery (Appointments)|(shortcode). 40|(tel_number). 475104|(empty_notes). ...|
 
-h1(#April). April
+h1(#april). April
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|April Flowers (Florists)|49|553999||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). April Flowers (Florists)|(shortcode). 49|(tel_number). 553999|(empty_notes). ...|
 
-h1(#Back-up). Back-up
+h1(#backup). Back-up
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Purbeck Press (Back-up)|9|423691|Has answering machine|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Purbeck Press (Back-up)|(shortcode). 9|(tel_number). 423691|(notes). Has answering machine|
 
-h1(#Black). Black
+h1(#bearer). Bearer
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|James Smith Mobile Black|56|7751821300||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Charlie Parker (Landline) (Bearer)|(shortcode). 66|(tel_number). 423124|(empty_notes). ...|
+|(name). Charlie Parker (Mobile) (Bearer)|(shortcode). 67|(tel_number). 7932480881|(empty_notes). ...|
+|(name). Dave Russell (Landline) (Bearer)|(shortcode). 72|(tel_number). 421132|(empty_notes). ...|
+|(name). Dave Russell (Mobile) (Bearer)|(shortcode). 73|(tel_number). 7812566529|(empty_notes). ...|
+|(name). Gordon Drew (Landline) (Bearer)|(shortcode). 70|(tel_number). 426970|(empty_notes). ...|
+|(name). Gordon Drew (Mobile) (Bearer)|(shortcode). 71|(tel_number). 7721843373|(empty_notes). ...|
+|(name). John Walton (Landline) (Bearer)|(shortcode). 74|(tel_number). 425592|(empty_notes). ...|
+|(name). John Walton (Mobile) (Bearer)|(shortcode). 75|(tel_number). 7807920745|(empty_notes). ...|
+|(name). Mike Johnson (Landline) (Bearer)|(shortcode). 68|(tel_number). 424041|(empty_notes). ...|
+|(name). Mike Johnson (Mobile) (Bearer)|(shortcode). 69|(tel_number). 7981274383|(empty_notes). ...|
 
-h1(#Bloom). Bloom
+h1(#black). Black
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bloom (Florists) (Victoria)|46|426197||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). James Smith Mobile Black|(shortcode). 56|(tel_number). 7751821300|(empty_notes). ...|
 
-h1(#Bournemouth). Bournemouth
+h1(#bloom). Bloom
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057||
-|Bournemouth Coroner (Office)|35|1202789154||
-|Bournemouth Coroner (Secretary) (Geri)|34|1202310049||
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
-|Bournemouth Crematorium|42|1202526238||
-|Bournemouth Hospital General Office|26|1202404125||
-|Bournemouth Hospital Mortuary|25|||
-|(see-also). See also Bournemouth Hospital Switchboard|
-|Bournemouth Hospital Switchboard|27|1202303626||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bloom (Florists) (Victoria)|(shortcode). 46|(tel_number). 426197|(empty_notes). ...|
 
-h1(#Charlie). Charlie
+h1(#bournemouth). Bournemouth
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Charlie|66|423124||
-|Charlie (Mobile)|67|7932480881||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner (Julian) (Direct Line)|(shortcode). 33|(tel_number). 1202789057|(empty_notes). ...|
+|(name). Bournemouth Coroner (Office)|(shortcode). 35|(tel_number). 1202789154|(empty_notes). ...|
+|(name). Bournemouth Coroner (Secretary) (Geri)|(shortcode). 34|(tel_number). 1202310049|(empty_notes). ...|
+|(name). Bournemouth Coroner's Mortuary (Holly Tree Lodge)|(shortcode). 32|(tel_number). 1202303300|(empty_notes). ...|
+|(name). Bournemouth Crematorium|(shortcode). 42|(tel_number). 1202526238|(empty_notes). ...|
+|(name). Bournemouth Hospital General Office|(shortcode). 26|(tel_number). 1202404125|(empty_notes). ...|
+(has-see-also). |(name). Bournemouth Hospital Mortuary|(shortcode). 25|(tel_number). Not yet known|(empty_notes). ...|
+|(see-also). _See also_ Bournemouth Hospital Switchboard|
+|(name). Bournemouth Hospital Switchboard|(shortcode). 27|(tel_number). 1202303626|(empty_notes). ...|
 
-h1(#Coroner). Coroner
+h1(#charlie). Charlie
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057||
-|Bournemouth Coroner (Office)|35|1202789154||
-|Bournemouth Coroner (Secretary) (Geri)|34|1202310049||
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Charlie Parker (Landline) (Bearer)|(shortcode). 66|(tel_number). 423124|(empty_notes). ...|
+|(name). Charlie Parker (Mobile) (Bearer)|(shortcode). 67|(tel_number). 7932480881|(empty_notes). ...|
 
-h1(#Council). Council
+h1(#coroner). Coroner
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Town Council|7|423636||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner (Julian) (Direct Line)|(shortcode). 33|(tel_number). 1202789057|(empty_notes). ...|
+|(name). Bournemouth Coroner (Office)|(shortcode). 35|(tel_number). 1202789154|(empty_notes). ...|
+|(name). Bournemouth Coroner (Secretary) (Geri)|(shortcode). 34|(tel_number). 1202310049|(empty_notes). ...|
+|(name). Bournemouth Coroner's Mortuary (Holly Tree Lodge)|(shortcode). 32|(tel_number). 1202303300|(empty_notes). ...|
 
-h1(#Crematorium). Crematorium
+h1(#council). Council
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Crematorium|42|1202526238||
-|Poole Crematorium|41|1202261382||
-|Weymouth Crematorium|43|1305786984||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Town Council|(shortcode). 7|(tel_number). 423636|(empty_notes). ...|
 
-h1(#Danielle). Danielle
+h1(#crematorium). Crematorium
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|M-Balm (Danielle)|19|7730233011||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Crematorium|(shortcode). 42|(tel_number). 1202526238|(empty_notes). ...|
+|(name). Poole Crematorium|(shortcode). 41|(tel_number). 1202261382|(empty_notes). ...|
+|(name). Weymouth Crematorium|(shortcode). 43|(tel_number). 1305786984|(empty_notes). ...|
 
-h1(#Dave). Dave
+h1(#danielle). Danielle
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Dave (Landline)|72|421132||
-|Dave (Mobile)|73|7812566529||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). M-Balm (Danielle)|(shortcode). 19|(tel_number). 7730233011|(empty_notes). ...|
 
-h1(#Derek). Derek
+h1(#dave). Dave
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Derek (Landline)|62|761442||
-|Derek (Mobile)|63|7845082551||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Dave Russell (Landline) (Bearer)|(shortcode). 72|(tel_number). 421132|(empty_notes). ...|
+|(name). Dave Russell (Mobile) (Bearer)|(shortcode). 73|(tel_number). 7812566529|(empty_notes). ...|
 
-h1(#Direct). Direct
+h1(#derek). Derek
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Derek Trotter (Landline)|(shortcode). 62|(tel_number). 761442|(empty_notes). ...|
+|(name). Derek Trotter (Mobile)|(shortcode). 63|(tel_number). 7845082551|(empty_notes). ...|
 
-h1(#Doctors). Doctors
+h1(#direct). Direct
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner (Julian) (Direct Line)|(shortcode). 33|(tel_number). 1202789057|(empty_notes). ...|
 
-h1(#Dorchester). Dorchester
+h1(#doctors). Doctors
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Dorchester Hospital Mortuary|28|1305255250||
-|Dorchester Hospital Switchboard|29|1305251150||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Surgery (Doctors' Secretary) (Gail)|(shortcode). 38|(tel_number). 475109|(empty_notes). ...|
 
-h1(#Douch). Douch
+h1(#dorchester). Dorchester
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Douch and Small|10|1202882936||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Dorchester Hospital Mortuary|(shortcode). 28|(tel_number). 1305255250|(empty_notes). ...|
+|(name). Dorchester Hospital Switchboard|(shortcode). 29|(tel_number). 1305251150|(empty_notes). ...|
 
-h1(#Fax). Fax
+h1(#douch). Douch
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Hospital Mortuary (Fax)|22|1202442286||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Douch and Small|(shortcode). 10|(tel_number). 1202882936|(empty_notes). ...|
 
-h1(#Florists). Florists
+h1(#fax). Fax
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|April Flowers (Florists)|49|553999||
-|Bloom (Florists) (Victoria)|46|426197||
-|Perfect Petals (Florists) (Marita) (Landline)|48|423537||
-|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Poole Hospital Mortuary (Fax)|(shortcode). 22|(tel_number). 1202442286|(empty_notes). ...|
 
-h1(#Flowers). Flowers
+h1(#florists). Florists
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|April Flowers (Florists)|49|553999||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). April Flowers (Florists)|(shortcode). 49|(tel_number). 553999|(empty_notes). ...|
+|(name). Bloom (Florists) (Victoria)|(shortcode). 46|(tel_number). 426197|(empty_notes). ...|
+|(name). Perfect Petals (Florists) (Marita) (Landline)|(shortcode). 48|(tel_number). 423537|(empty_notes). ...|
+|(name). Perfect Petals (Florists) (Marita) (Mobile)|(shortcode). 47|(tel_number). 7791467919|(empty_notes). ...|
 
-h1(#Gail). Gail
+h1(#flowers). Flowers
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). April Flowers (Florists)|(shortcode). 49|(tel_number). 553999|(empty_notes). ...|
 
-h1(#General). General
+h1(#gail). Gail
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Hospital General Office|26|1202404125||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Surgery (Doctors' Secretary) (Gail)|(shortcode). 38|(tel_number). 475109|(empty_notes). ...|
 
-h1(#Geri). Geri
+h1(#general). General
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Secretary) (Geri)|34|1202310049||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Hospital General Office|(shortcode). 26|(tel_number). 1202404125|(empty_notes). ...|
 
-h1(#Gordon). Gordon
+h1(#geri). Geri
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Gordon (Landline)|70|426970||
-|Gordon (Mobile)|71|7721843373||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner (Secretary) (Geri)|(shortcode). 34|(tel_number). 1202310049|(empty_notes). ...|
 
-h1(#Holly). Holly
+h1(#gordon). Gordon
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Gordon Drew (Landline) (Bearer)|(shortcode). 70|(tel_number). 426970|(empty_notes). ...|
+|(name). Gordon Drew (Mobile) (Bearer)|(shortcode). 71|(tel_number). 7721843373|(empty_notes). ...|
 
-h1(#Hospital). Hospital
+h1(#holly). Holly
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Hospital General Office|26|1202404125||
-|Bournemouth Hospital Mortuary|25|||
-|(see-also). See also Bournemouth Hospital Switchboard|
-|Bournemouth Hospital Switchboard|27|1202303626||
-|Dorchester Hospital Mortuary|28|1305255250||
-|Dorchester Hospital Switchboard|29|1305251150||
-|Poole Hospital Mortuary (Fax)|22|1202442286||
-|Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
-|Poole Hospital Mortuary (Val) (Sue)|23|1202442061||
-|Poole Hospital Patient Property|24|1202442442||
-|Swanage Hospital (Reception)|36|422282||
-|Swanage Hospital (Ward Sister)|37|475013||
-|Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
-|Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner's Mortuary (Holly Tree Lodge)|(shortcode). 32|(tel_number). 1202303300|(empty_notes). ...|
 
-h1(#Ian). Ian
+h1(#hospital). Hospital
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Ian (Landline)|64|427107||
-|Ian (Mobile)|65|7792075233||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Hospital General Office|(shortcode). 26|(tel_number). 1202404125|(empty_notes). ...|
+(has-see-also). |(name). Bournemouth Hospital Mortuary|(shortcode). 25|(tel_number). Not yet known|(empty_notes). ...|
+|(see-also). _See also_ Bournemouth Hospital Switchboard|
+|(name). Bournemouth Hospital Switchboard|(shortcode). 27|(tel_number). 1202303626|(empty_notes). ...|
+|(name). Dorchester Hospital Mortuary|(shortcode). 28|(tel_number). 1305255250|(empty_notes). ...|
+|(name). Dorchester Hospital Switchboard|(shortcode). 29|(tel_number). 1305251150|(empty_notes). ...|
+|(name). Poole Hospital Mortuary (Fax)|(shortcode). 22|(tel_number). 1202442286|(empty_notes). ...|
+|(name). Poole Hospital Mortuary (Main)|(shortcode). 21|(tel_number). 1202442210|(notes). Has answering machine|
+|(name). Poole Hospital Mortuary (Val) (Sue)|(shortcode). 23|(tel_number). 1202442061|(empty_notes). ...|
+|(name). Poole Hospital Patient Property|(shortcode). 24|(tel_number). 1202442442|(empty_notes). ...|
+|(name). Swanage Hospital (Reception)|(shortcode). 36|(tel_number). 422282|(empty_notes). ...|
+|(name). Swanage Hospital (Ward Sister)|(shortcode). 37|(tel_number). 475013|(empty_notes). ...|
+|(name). Weymouth Hospital Mortuary|(shortcode). 30|(tel_number). 1305760022|(notes). Could be Switchboard|
+|(name). Weymouth Hospital Switchboard|(shortcode). 31|(tel_number). 1305760022|(notes). Could be Mortuary|
 
-h1(#Ives). Ives
+h1(#ian). Ian
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Ives and Shand|16|1202716500||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Ian Cheesbrough (Landline)|(shortcode). 64|(tel_number). 427107|(empty_notes). ...|
+|(name). Ian Cheesbrough (Mobile)|(shortcode). 65|(tel_number). 7792075233|(empty_notes). ...|
+(has-see-also). |(name). Ian Cole (F.E. Harris) (Supplies) (Coffins)|(shortcode). 3|(tel_number). 7738170741|(empty_notes). ...|
+|(see-also). _See also_ F.E. Harris|
 
-h1(#James). James
+h1(#ives). Ives
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|James Smith Mobile Black|56|7751821300||
-|James Smith Mobile Silver|57|7751821301||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Ives and Shand|(shortcode). 16|(tel_number). 1202716500|(empty_notes). ...|
 
-h1(#Jenny). Jenny
+h1(#james). James
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|John (Jenny) (Mobile)|76|7966433191||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). James Smith Mobile Black|(shortcode). 56|(tel_number). 7751821300|(empty_notes). ...|
+|(name). James Smith Mobile Silver|(shortcode). 57|(tel_number). 7751821301|(empty_notes). ...|
 
-h1(#John). John
+h1(#jenny). Jenny
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|John (Jenny) (Mobile)|76|7966433191||
-|John (Landline)|74|425592||
-|John (Mobile)|75|7807920745||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). John Walton (Jenny) (Mobile)|(shortcode). 76|(tel_number). 7966433191|(empty_notes). ...|
 
-h1(#Jolliffe). Jolliffe
+h1(#john). John
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|A.E. Jolliffe|12|1202872050||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). John Walton (Jenny) (Mobile)|(shortcode). 76|(tel_number). 7966433191|(empty_notes). ...|
+|(name). John Walton (Landline) (Bearer)|(shortcode). 74|(tel_number). 425592|(empty_notes). ...|
+|(name). John Walton (Mobile) (Bearer)|(shortcode). 75|(tel_number). 7807920745|(empty_notes). ...|
 
-h1(#Julian). Julian
+h1(#jolliffe). Jolliffe
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). A.E. Jolliffe|(shortcode). 12|(tel_number). 1202872050|(empty_notes). ...|
 
-h1(#Landline). Landline
+h1(#julian). Julian
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Dave (Landline)|72|421132||
-|Derek (Landline)|62|761442||
-|Gordon (Landline)|70|426970||
-|Ian (Landline)|64|427107||
-|John (Landline)|74|425592||
-|Lew (Landline)|77|425044||
-|Malcolm (Landline)|60|424959||
-|Mike (Landline)|68|424041||
-|Perfect Petals (Florists) (Marita) (Landline)|48|423537||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner (Julian) (Direct Line)|(shortcode). 33|(tel_number). 1202789057|(empty_notes). ...|
 
-h1(#Lesley). Lesley
+h1(#landline). Landline
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Lesley Shand|18|1202658833||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Charlie Parker (Landline) (Bearer)|(shortcode). 66|(tel_number). 423124|(empty_notes). ...|
+|(name). Dave Russell (Landline) (Bearer)|(shortcode). 72|(tel_number). 421132|(empty_notes). ...|
+|(name). Derek Trotter (Landline)|(shortcode). 62|(tel_number). 761442|(empty_notes). ...|
+|(name). Gordon Drew (Landline) (Bearer)|(shortcode). 70|(tel_number). 426970|(empty_notes). ...|
+|(name). Ian Cheesbrough (Landline)|(shortcode). 64|(tel_number). 427107|(empty_notes). ...|
+|(name). John Walton (Landline) (Bearer)|(shortcode). 74|(tel_number). 425592|(empty_notes). ...|
+|(name). Lew Fletcher (Landline)|(shortcode). 77|(tel_number). 425044|(empty_notes). ...|
+|(name). Malcolm Green (Landline)|(shortcode). 60|(tel_number). 424959|(empty_notes). ...|
+|(name). Mike Johnson (Landline) (Bearer)|(shortcode). 68|(tel_number). 424041|(empty_notes). ...|
+|(name). Perfect Petals (Florists) (Marita) (Landline)|(shortcode). 48|(tel_number). 423537|(empty_notes). ...|
 
-h1(#Lew). Lew
+h1(#lesley). Lesley
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Lew (Landline)|77|425044||
-|Lew (Mobile)|78|7976519326||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Lesley Shand|(shortcode). 18|(tel_number). 1202658833|(empty_notes). ...|
 
-h1(#Line). Line
+h1(#lew). Lew
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Julian) (Direct Line)|33|1202789057||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Lew Fletcher (Landline)|(shortcode). 77|(tel_number). 425044|(empty_notes). ...|
+|(name). Lew Fletcher (Mobile)|(shortcode). 78|(tel_number). 7976519326|(empty_notes). ...|
 
-h1(#Lodge). Lodge
+h1(#line). Line
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner (Julian) (Direct Line)|(shortcode). 33|(tel_number). 1202789057|(empty_notes). ...|
 
-h1(#M-Balm). M-Balm
+h1(#lodge). Lodge
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|M-Balm (Danielle)|19|7730233011||
-|M-Balm (Matt)|20|7821300011||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner's Mortuary (Holly Tree Lodge)|(shortcode). 32|(tel_number). 1202303300|(empty_notes). ...|
 
-h1(#Main). Main
+h1(#mbalm). M-Balm
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). M-Balm (Danielle)|(shortcode). 19|(tel_number). 7730233011|(empty_notes). ...|
+|(name). M-Balm (Matt)|(shortcode). 20|(tel_number). 7821300011|(empty_notes). ...|
 
-h1(#Malcolm). Malcolm
+h1(#main). Main
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Malcolm (Landline)|60|424959||
-|Malcolm (Mobile)|61|7941190316||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Poole Hospital Mortuary (Main)|(shortcode). 21|(tel_number). 1202442210|(notes). Has answering machine|
 
-h1(#Marita). Marita
+h1(#malcolm). Malcolm
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Perfect Petals (Florists) (Marita) (Landline)|48|423537||
-|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Malcolm Green (Landline)|(shortcode). 60|(tel_number). 424959|(empty_notes). ...|
+|(name). Malcolm Green (Mobile)|(shortcode). 61|(tel_number). 7941190316|(empty_notes). ...|
 
-h1(#Marsh). Marsh
+h1(#marita). Marita
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Albert Marsh|14|552107||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Perfect Petals (Florists) (Marita) (Landline)|(shortcode). 48|(tel_number). 423537|(empty_notes). ...|
+|(name). Perfect Petals (Florists) (Marita) (Mobile)|(shortcode). 47|(tel_number). 7791467919|(empty_notes). ...|
 
-h1(#Matt). Matt
+h1(#marsh). Marsh
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|M-Balm (Matt)|20|7821300011||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Albert Marsh|(shortcode). 14|(tel_number). 552107|(empty_notes). ...|
 
-h1(#Mike). Mike
+h1(#matt). Matt
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Mike (Landline)|68|424041||
-|Mike (Mobile)|69|7981274383||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). M-Balm (Matt)|(shortcode). 20|(tel_number). 7821300011|(empty_notes). ...|
 
-h1(#Mobile). Mobile
+h1(#mike). Mike
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Charlie (Mobile)|67|7932480881||
-|Dave (Mobile)|73|7812566529||
-|Derek (Mobile)|63|7845082551||
-|Gordon (Mobile)|71|7721843373||
-|Ian (Mobile)|65|7792075233||
-|James Smith Mobile Black|56|7751821300||
-|James Smith Mobile Silver|57|7751821301||
-|John (Jenny) (Mobile)|76|7966433191||
-|John (Mobile)|75|7807920745||
-|Lew (Mobile)|78|7976519326||
-|Malcolm (Mobile)|61|7941190316||
-|Mike (Mobile)|69|7981274383||
-|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Mike Johnson (Landline) (Bearer)|(shortcode). 68|(tel_number). 424041|(empty_notes). ...|
+|(name). Mike Johnson (Mobile) (Bearer)|(shortcode). 69|(tel_number). 7981274383|(empty_notes). ...|
 
-h1(#Mortuary). Mortuary
+h1(#mobile). Mobile
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
-|Bournemouth Hospital Mortuary|25|||
-|(see-also). See also Bournemouth Hospital Switchboard|
-|Dorchester Hospital Mortuary|28|1305255250||
-|Poole Hospital Mortuary (Fax)|22|1202442286||
-|Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
-|Poole Hospital Mortuary (Val) (Sue)|23|1202442061||
-|Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
-|Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Charlie Parker (Mobile) (Bearer)|(shortcode). 67|(tel_number). 7932480881|(empty_notes). ...|
+|(name). Dave Russell (Mobile) (Bearer)|(shortcode). 73|(tel_number). 7812566529|(empty_notes). ...|
+|(name). Derek Trotter (Mobile)|(shortcode). 63|(tel_number). 7845082551|(empty_notes). ...|
+|(name). Gordon Drew (Mobile) (Bearer)|(shortcode). 71|(tel_number). 7721843373|(empty_notes). ...|
+|(name). Ian Cheesbrough (Mobile)|(shortcode). 65|(tel_number). 7792075233|(empty_notes). ...|
+|(name). James Smith Mobile Black|(shortcode). 56|(tel_number). 7751821300|(empty_notes). ...|
+|(name). James Smith Mobile Silver|(shortcode). 57|(tel_number). 7751821301|(empty_notes). ...|
+|(name). John Walton (Jenny) (Mobile)|(shortcode). 76|(tel_number). 7966433191|(empty_notes). ...|
+|(name). John Walton (Mobile) (Bearer)|(shortcode). 75|(tel_number). 7807920745|(empty_notes). ...|
+|(name). Lew Fletcher (Mobile)|(shortcode). 78|(tel_number). 7976519326|(empty_notes). ...|
+|(name). Malcolm Green (Mobile)|(shortcode). 61|(tel_number). 7941190316|(empty_notes). ...|
+|(name). Mike Johnson (Mobile) (Bearer)|(shortcode). 69|(tel_number). 7981274383|(empty_notes). ...|
+|(name). Perfect Petals (Florists) (Marita) (Mobile)|(shortcode). 47|(tel_number). 7791467919|(empty_notes). ...|
 
-h1(#Name). Name
+h1(#mortuary). Mortuary
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Name|Memory|Number|Notes|
-|(see-also). See also Cross reference|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner's Mortuary (Holly Tree Lodge)|(shortcode). 32|(tel_number). 1202303300|(empty_notes). ...|
+(has-see-also). |(name). Bournemouth Hospital Mortuary|(shortcode). 25|(tel_number). Not yet known|(empty_notes). ...|
+|(see-also). _See also_ Bournemouth Hospital Switchboard|
+|(name). Dodge (Supplies) (Mortuary)|(shortcode). 2|(tel_number). 1256893883|(empty_notes). ...|
+|(name). Dorchester Hospital Mortuary|(shortcode). 28|(tel_number). 1305255250|(empty_notes). ...|
+|(name). Poole Hospital Mortuary (Fax)|(shortcode). 22|(tel_number). 1202442286|(empty_notes). ...|
+|(name). Poole Hospital Mortuary (Main)|(shortcode). 21|(tel_number). 1202442210|(notes). Has answering machine|
+|(name). Poole Hospital Mortuary (Val) (Sue)|(shortcode). 23|(tel_number). 1202442061|(empty_notes). ...|
+|(name). Weymouth Hospital Mortuary|(shortcode). 30|(tel_number). 1305760022|(notes). Could be Switchboard|
+|(name). Weymouth Hospital Switchboard|(shortcode). 31|(tel_number). 1305760022|(notes). Could be Mortuary|
 
-h1(#Newspaper). Newspaper
+h1(#name). Name
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Advertiser (Newspaper)|51|427428||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+(has-see-also). |(name). Name|(shortcode). Memory|(tel_number). Number|(notes). Notes|
+|(see-also). _See also_ Cross reference|
 
-h1(#Office). Office
+h1(#newspaper). Newspaper
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Office)|35|1202789154||
-|Bournemouth Hospital General Office|26|1202404125||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Daily Echo (Newspaper) (Victoria Davies)|(shortcode). 52|(tel_number). 1202411332|(empty_notes). ...|
+|(name). Swanage Advertiser (Newspaper)|(shortcode). 51|(tel_number). 427428|(empty_notes). ...|
 
-h1(#Patient). Patient
+h1(#office). Office
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Hospital Patient Property|24|1202442442||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner (Office)|(shortcode). 35|(tel_number). 1202789154|(empty_notes). ...|
+|(name). Bournemouth Hospital General Office|(shortcode). 26|(tel_number). 1202404125|(empty_notes). ...|
 
-h1(#Perfect). Perfect
+h1(#patient). Patient
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Perfect Petals (Florists) (Marita) (Landline)|48|423537||
-|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Poole Hospital Patient Property|(shortcode). 24|(tel_number). 1202442442|(empty_notes). ...|
 
-h1(#Petals). Petals
+h1(#perfect). Perfect
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Perfect Petals (Florists) (Marita) (Landline)|48|423537||
-|Perfect Petals (Florists) (Marita) (Mobile)|47|7791467919||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Perfect Petals (Florists) (Marita) (Landline)|(shortcode). 48|(tel_number). 423537|(empty_notes). ...|
+|(name). Perfect Petals (Florists) (Marita) (Mobile)|(shortcode). 47|(tel_number). 7791467919|(empty_notes). ...|
 
-h1(#Poole). Poole
+h1(#petals). Petals
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Crematorium|41|1202261382||
-|Poole Hospital Mortuary (Fax)|22|1202442286||
-|Poole Hospital Mortuary (Main)|21|1202442210|Has answering machine|
-|Poole Hospital Mortuary (Val) (Sue)|23|1202442061||
-|Poole Hospital Patient Property|24|1202442442||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Perfect Petals (Florists) (Marita) (Landline)|(shortcode). 48|(tel_number). 423537|(empty_notes). ...|
+|(name). Perfect Petals (Florists) (Marita) (Mobile)|(shortcode). 47|(tel_number). 7791467919|(empty_notes). ...|
 
-h1(#Press). Press
+h1(#poole). Poole
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Purbeck Press|8|7968824129||
-|Purbeck Press (Back-up)|9|423691|Has answering machine|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Poole Crematorium|(shortcode). 41|(tel_number). 1202261382|(empty_notes). ...|
+|(name). Poole Hospital Mortuary (Fax)|(shortcode). 22|(tel_number). 1202442286|(empty_notes). ...|
+|(name). Poole Hospital Mortuary (Main)|(shortcode). 21|(tel_number). 1202442210|(notes). Has answering machine|
+|(name). Poole Hospital Mortuary (Val) (Sue)|(shortcode). 23|(tel_number). 1202442061|(empty_notes). ...|
+|(name). Poole Hospital Patient Property|(shortcode). 24|(tel_number). 1202442442|(empty_notes). ...|
 
-h1(#Property). Property
+h1(#press). Press
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Hospital Patient Property|24|1202442442||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Purbeck Press|(shortcode). 8|(tel_number). 7968824129|(empty_notes). ...|
+|(name). Purbeck Press (Back-up)|(shortcode). 9|(tel_number). 423691|(notes). Has answering machine|
 
-h1(#Purbeck). Purbeck
+h1(#property). Property
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Purbeck Press|8|7968824129||
-|Purbeck Press (Back-up)|9|423691|Has answering machine|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Poole Hospital Patient Property|(shortcode). 24|(tel_number). 1202442442|(empty_notes). ...|
 
-h1(#Reception). Reception
+h1(#purbeck). Purbeck
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Hospital (Reception)|36|422282||
-|Swanage Surgery (Reception)|39|422231||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Purbeck Press|(shortcode). 8|(tel_number). 7968824129|(empty_notes). ...|
+|(name). Purbeck Press (Back-up)|(shortcode). 9|(tel_number). 423691|(notes). Has answering machine|
 
-h1(#Secretary). Secretary
+h1(#reception). Reception
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner (Secretary) (Geri)|34|1202310049||
-|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Hospital (Reception)|(shortcode). 36|(tel_number). 422282|(empty_notes). ...|
+|(name). Swanage Surgery (Reception)|(shortcode). 39|(tel_number). 422231|(empty_notes). ...|
 
-h1(#Shand). Shand
+h1(#secretary). Secretary
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Ives and Shand|16|1202716500||
-|Lesley Shand|18|1202658833||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner (Secretary) (Geri)|(shortcode). 34|(tel_number). 1202310049|(empty_notes). ...|
+|(name). Swanage Surgery (Doctors' Secretary) (Gail)|(shortcode). 38|(tel_number). 475109|(empty_notes). ...|
 
-h1(#Silver). Silver
+h1(#shand). Shand
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|James Smith Mobile Silver|57|7751821301||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Ives and Shand|(shortcode). 16|(tel_number). 1202716500|(empty_notes). ...|
+|(name). Lesley Shand|(shortcode). 18|(tel_number). 1202658833|(empty_notes). ...|
 
-h1(#Sister). Sister
+h1(#silver). Silver
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Hospital (Ward Sister)|37|475013||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). James Smith Mobile Silver|(shortcode). 57|(tel_number). 7751821301|(empty_notes). ...|
 
-h1(#Small). Small
+h1(#sister). Sister
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Douch and Small|10|1202882936||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Hospital (Ward Sister)|(shortcode). 37|(tel_number). 475013|(empty_notes). ...|
 
-h1(#Smith). Smith
+h1(#small). Small
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|James Smith Mobile Black|56|7751821300||
-|James Smith Mobile Silver|57|7751821301||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Douch and Small|(shortcode). 10|(tel_number). 1202882936|(empty_notes). ...|
 
-h1(#Sue). Sue
+h1(#smith). Smith
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Hospital Mortuary (Val) (Sue)|23|1202442061||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). James Smith Mobile Black|(shortcode). 56|(tel_number). 7751821300|(empty_notes). ...|
+|(name). James Smith Mobile Silver|(shortcode). 57|(tel_number). 7751821301|(empty_notes). ...|
 
-h1(#Surgery). Surgery
+h1(#sue). Sue
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Surgery (Appointments)|40|475104||
-|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109||
-|Swanage Surgery (Reception)|39|422231||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Poole Hospital Mortuary (Val) (Sue)|(shortcode). 23|(tel_number). 1202442061|(empty_notes). ...|
 
-h1(#Swanage). Swanage
+h1(#surgery). Surgery
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Advertiser (Newspaper)|51|427428||
-|Swanage Hospital (Reception)|36|422282||
-|Swanage Hospital (Ward Sister)|37|475013||
-|Swanage Surgery (Appointments)|40|475104||
-|Swanage Surgery (Doctors' Secretary) (Gail)|38|475109||
-|Swanage Surgery (Reception)|39|422231||
-|Swanage Town Council|7|423636||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Surgery (Appointments)|(shortcode). 40|(tel_number). 475104|(empty_notes). ...|
+|(name). Swanage Surgery (Doctors' Secretary) (Gail)|(shortcode). 38|(tel_number). 475109|(empty_notes). ...|
+|(name). Swanage Surgery (Reception)|(shortcode). 39|(tel_number). 422231|(empty_notes). ...|
 
-h1(#Switchboard). Switchboard
+h1(#swanage). Swanage
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Hospital Mortuary|25|||
-|(see-also). See also Bournemouth Hospital Switchboard|
-|Bournemouth Hospital Switchboard|27|1202303626||
-|Dorchester Hospital Switchboard|29|1305251150||
-|Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
-|Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Advertiser (Newspaper)|(shortcode). 51|(tel_number). 427428|(empty_notes). ...|
+|(name). Swanage Hospital (Reception)|(shortcode). 36|(tel_number). 422282|(empty_notes). ...|
+|(name). Swanage Hospital (Ward Sister)|(shortcode). 37|(tel_number). 475013|(empty_notes). ...|
+|(name). Swanage Surgery (Appointments)|(shortcode). 40|(tel_number). 475104|(empty_notes). ...|
+|(name). Swanage Surgery (Doctors' Secretary) (Gail)|(shortcode). 38|(tel_number). 475109|(empty_notes). ...|
+|(name). Swanage Surgery (Reception)|(shortcode). 39|(tel_number). 422231|(empty_notes). ...|
+|(name). Swanage Town Council|(shortcode). 7|(tel_number). 423636|(empty_notes). ...|
 
-h1(#Town). Town
+h1(#switchboard). Switchboard
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Town Council|7|423636||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+(has-see-also). |(name). Bournemouth Hospital Mortuary|(shortcode). 25|(tel_number). Not yet known|(empty_notes). ...|
+|(see-also). _See also_ Bournemouth Hospital Switchboard|
+|(name). Bournemouth Hospital Switchboard|(shortcode). 27|(tel_number). 1202303626|(empty_notes). ...|
+|(name). Dorchester Hospital Switchboard|(shortcode). 29|(tel_number). 1305251150|(empty_notes). ...|
+|(name). Weymouth Hospital Mortuary|(shortcode). 30|(tel_number). 1305760022|(notes). Could be Switchboard|
+|(name). Weymouth Hospital Switchboard|(shortcode). 31|(tel_number). 1305760022|(notes). Could be Mortuary|
 
-h1(#Tree). Tree
+h1(#town). Town
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bournemouth Coroner's Mortuary (Holly Tree Lodge)|32|1202303300||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Town Council|(shortcode). 7|(tel_number). 423636|(empty_notes). ...|
 
-h1(#Val). Val
+h1(#tree). Tree
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Poole Hospital Mortuary (Val) (Sue)|23|1202442061||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bournemouth Coroner's Mortuary (Holly Tree Lodge)|(shortcode). 32|(tel_number). 1202303300|(empty_notes). ...|
 
-h1(#Victoria). Victoria
+h1(#val). Val
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Bloom (Florists) (Victoria)|46|426197||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Poole Hospital Mortuary (Val) (Sue)|(shortcode). 23|(tel_number). 1202442061|(empty_notes). ...|
 
-h1(#Ward). Ward
+h1(#victoria). Victoria
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Swanage Hospital (Ward Sister)|37|475013||
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Bloom (Florists) (Victoria)|(shortcode). 46|(tel_number). 426197|(empty_notes). ...|
+|(name). Daily Echo (Newspaper) (Victoria Davies)|(shortcode). 52|(tel_number). 1202411332|(empty_notes). ...|
 
-h1(#Weymouth). Weymouth
+h1(#ward). Ward
 
-|_. Name |_. Shortcode |_. Number |_. Notes |
-|Weymouth Crematorium|43|1305786984||
-|Weymouth Hospital Mortuary|30|1305760022|Could be Switchboard|
-|Weymouth Hospital Switchboard|31|1305760022|Could be Mortuary|
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Swanage Hospital (Ward Sister)|(shortcode). 37|(tel_number). 475013|(empty_notes). ...|
+
+h1(#weymouth). Weymouth
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Weymouth Crematorium|(shortcode). 43|(tel_number). 1305786984|(empty_notes). ...|
+|(name). Weymouth Hospital Mortuary|(shortcode). 30|(tel_number). 1305760022|(notes). Could be Switchboard|
+|(name). Weymouth Hospital Switchboard|(shortcode). 31|(tel_number). 1305760022|(notes). Could be Mortuary|
 

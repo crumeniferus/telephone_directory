@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Poole
-=======
-h1(#Poole). Poole
->>>>>>> Added id property to keyword headers.
+h1(#poole). Poole
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Poole Crematorium|(shortcode). 41|(tel_number). 1202261382|(empty_notes). ...|

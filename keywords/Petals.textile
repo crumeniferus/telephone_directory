@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Petals
-=======
-h1(#Petals). Petals
->>>>>>> Added id property to keyword headers.
+h1(#petals). Petals
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Perfect Petals (Florists) (Marita) (Landline)|(shortcode). 48|(tel_number). 423537|(empty_notes). ...|

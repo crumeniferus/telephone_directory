@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Weymouth
-=======
-h1(#Weymouth). Weymouth
->>>>>>> Added id property to keyword headers.
+h1(#weymouth). Weymouth
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Weymouth Crematorium|(shortcode). 43|(tel_number). 1305786984|(empty_notes). ...|

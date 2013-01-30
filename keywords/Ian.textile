@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-h1. Ian
-=======
-h1(#Ian). Ian
->>>>>>> Added id property to keyword headers.
+h1(#ian). Ian
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
-|(name). Ian (Landline)|(shortcode). 64|(tel_number). 427107|(empty_notes). ...|
-|(name). Ian (Mobile)|(shortcode). 65|(tel_number). 7792075233|(empty_notes). ...|
+|(name). Ian Cheesbrough (Landline)|(shortcode). 64|(tel_number). 427107|(empty_notes). ...|
+|(name). Ian Cheesbrough (Mobile)|(shortcode). 65|(tel_number). 7792075233|(empty_notes). ...|
+(has-see-also). |(name). Ian Cole (F.E. Harris) (Supplies) (Coffins)|(shortcode). 3|(tel_number). 7738170741|(empty_notes). ...|
+|(see-also). _See also_ F.E. Harris|
 

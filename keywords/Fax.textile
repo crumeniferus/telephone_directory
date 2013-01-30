@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Fax
-=======
-h1(#Fax). Fax
->>>>>>> Added id property to keyword headers.
+h1(#fax). Fax
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Poole Hospital Mortuary (Fax)|(shortcode). 22|(tel_number). 1202442286|(empty_notes). ...|

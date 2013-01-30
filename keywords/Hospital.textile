@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Hospital
-=======
-h1(#Hospital). Hospital
->>>>>>> Added id property to keyword headers.
+h1(#hospital). Hospital
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Bournemouth Hospital General Office|(shortcode). 26|(tel_number). 1202404125|(empty_notes). ...|

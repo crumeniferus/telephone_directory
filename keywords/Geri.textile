@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Geri
-=======
-h1(#Geri). Geri
->>>>>>> Added id property to keyword headers.
+h1(#geri). Geri
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Bournemouth Coroner (Secretary) (Geri)|(shortcode). 34|(tel_number). 1202310049|(empty_notes). ...|

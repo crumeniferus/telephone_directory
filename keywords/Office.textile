@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Office
-=======
-h1(#Office). Office
->>>>>>> Added id property to keyword headers.
+h1(#office). Office
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Bournemouth Coroner (Office)|(shortcode). 35|(tel_number). 1202789154|(empty_notes). ...|

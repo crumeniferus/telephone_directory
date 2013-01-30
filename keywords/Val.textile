@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Val
-=======
-h1(#Val). Val
->>>>>>> Added id property to keyword headers.
+h1(#val). Val
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Poole Hospital Mortuary (Val) (Sue)|(shortcode). 23|(tel_number). 1202442061|(empty_notes). ...|

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Name
-=======
-h1(#Name). Name
->>>>>>> Added id property to keyword headers.
+h1(#name). Name
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 (has-see-also). |(name). Name|(shortcode). Memory|(tel_number). Number|(notes). Notes|

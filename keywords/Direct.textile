@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Direct
-=======
-h1(#Direct). Direct
->>>>>>> Added id property to keyword headers.
+h1(#direct). Direct
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Bournemouth Coroner (Julian) (Direct Line)|(shortcode). 33|(tel_number). 1202789057|(empty_notes). ...|

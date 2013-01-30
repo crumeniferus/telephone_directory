@@ -1,13 +1,10 @@
-<<<<<<< HEAD
-h1. Mortuary
-=======
-h1(#Mortuary). Mortuary
->>>>>>> Added id property to keyword headers.
+h1(#mortuary). Mortuary
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Bournemouth Coroner's Mortuary (Holly Tree Lodge)|(shortcode). 32|(tel_number). 1202303300|(empty_notes). ...|
 (has-see-also). |(name). Bournemouth Hospital Mortuary|(shortcode). 25|(tel_number). Not yet known|(empty_notes). ...|
 |(see-also). _See also_ Bournemouth Hospital Switchboard|
+|(name). Dodge (Supplies) (Mortuary)|(shortcode). 2|(tel_number). 1256893883|(empty_notes). ...|
 |(name). Dorchester Hospital Mortuary|(shortcode). 28|(tel_number). 1305255250|(empty_notes). ...|
 |(name). Poole Hospital Mortuary (Fax)|(shortcode). 22|(tel_number). 1202442286|(empty_notes). ...|
 |(name). Poole Hospital Mortuary (Main)|(shortcode). 21|(tel_number). 1202442210|(notes). Has answering machine|

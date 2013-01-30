@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Gail
-=======
-h1(#Gail). Gail
->>>>>>> Added id property to keyword headers.
+h1(#gail). Gail
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Swanage Surgery (Doctors' Secretary) (Gail)|(shortcode). 38|(tel_number). 475109|(empty_notes). ...|

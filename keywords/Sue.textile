@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Sue
-=======
-h1(#Sue). Sue
->>>>>>> Added id property to keyword headers.
+h1(#sue). Sue
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Poole Hospital Mortuary (Val) (Sue)|(shortcode). 23|(tel_number). 1202442061|(empty_notes). ...|

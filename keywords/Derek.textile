@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-h1. Derek
-=======
-h1(#Derek). Derek
->>>>>>> Added id property to keyword headers.
+h1(#derek). Derek
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
-|(name). Derek (Landline)|(shortcode). 62|(tel_number). 761442|(empty_notes). ...|
-|(name). Derek (Mobile)|(shortcode). 63|(tel_number). 7845082551|(empty_notes). ...|
+|(name). Derek Trotter (Landline)|(shortcode). 62|(tel_number). 761442|(empty_notes). ...|
+|(name). Derek Trotter (Mobile)|(shortcode). 63|(tel_number). 7845082551|(empty_notes). ...|
 

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Town
-=======
-h1(#Town). Town
->>>>>>> Added id property to keyword headers.
+h1(#town). Town
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Swanage Town Council|(shortcode). 7|(tel_number). 423636|(empty_notes). ...|

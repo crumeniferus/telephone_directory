@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Switchboard
-=======
-h1(#Switchboard). Switchboard
->>>>>>> Added id property to keyword headers.
+h1(#switchboard). Switchboard
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 (has-see-also). |(name). Bournemouth Hospital Mortuary|(shortcode). 25|(tel_number). Not yet known|(empty_notes). ...|

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Main
-=======
-h1(#Main). Main
->>>>>>> Added id property to keyword headers.
+h1(#main). Main
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Poole Hospital Mortuary (Main)|(shortcode). 21|(tel_number). 1202442210|(notes). Has answering machine|

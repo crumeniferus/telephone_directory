@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Appointments
-=======
-h1(#Appointments). Appointments
->>>>>>> Added id property to keyword headers.
+h1(#appointments). Appointments
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Swanage Surgery (Appointments)|(shortcode). 40|(tel_number). 475104|(empty_notes). ...|

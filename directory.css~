@@ -18,6 +18,7 @@ th.shortcode
 th.tel_number
 {
 	width: 110px;
+	text-align: center;
 }
 th.notes
 {

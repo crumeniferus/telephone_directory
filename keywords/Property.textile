@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Property
-=======
-h1(#Property). Property
->>>>>>> Added id property to keyword headers.
+h1(#property). Property
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Poole Hospital Patient Property|(shortcode). 24|(tel_number). 1202442442|(empty_notes). ...|

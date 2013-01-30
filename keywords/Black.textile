@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Black
-=======
-h1(#Black). Black
->>>>>>> Added id property to keyword headers.
+h1(#black). Black
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). James Smith Mobile Black|(shortcode). 56|(tel_number). 7751821300|(empty_notes). ...|

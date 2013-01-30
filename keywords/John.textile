@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-h1. John
-=======
-h1(#John). John
->>>>>>> Added id property to keyword headers.
+h1(#john). John
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
-|(name). John (Jenny) (Mobile)|(shortcode). 76|(tel_number). 7966433191|(empty_notes). ...|
-|(name). John (Landline)|(shortcode). 74|(tel_number). 425592|(empty_notes). ...|
-|(name). John (Mobile)|(shortcode). 75|(tel_number). 7807920745|(empty_notes). ...|
+|(name). John Walton (Jenny) (Mobile)|(shortcode). 76|(tel_number). 7966433191|(empty_notes). ...|
+|(name). John Walton (Landline) (Bearer)|(shortcode). 74|(tel_number). 425592|(empty_notes). ...|
+|(name). John Walton (Mobile) (Bearer)|(shortcode). 75|(tel_number). 7807920745|(empty_notes). ...|
 

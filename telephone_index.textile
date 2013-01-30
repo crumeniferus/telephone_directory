@@ -1,78 +1,220 @@
 "(index-entry) A.E.":#ae
+
 "(index-entry) Advertiser":#advertiser
+
 "(index-entry) Albert":#albert
-"(index-entry) and":#and
+
+"(index-entry) Allsops":#allsops
+
 "(index-entry) Appointments":#appointments
+
 "(index-entry) April":#april
+
 "(index-entry) Back-up":#backup
+
+"(index-entry) Bearer":#bearer
+
 "(index-entry) Black":#black
+
 "(index-entry) Bloom":#bloom
+
 "(index-entry) Bournemouth":#bournemouth
+
+"(index-entry) Brosch":#brosch
+
 "(index-entry) Charlie":#charlie
+
+"(index-entry) Cheesbrough":#cheesbrough
+
+"(index-entry) Coffins":#coffins
+
+"(index-entry) Cole":#cole
+
 "(index-entry) Coroner":#coroner
+
 "(index-entry) Council":#council
+
 "(index-entry) Crematorium":#crematorium
+
+"(index-entry) Daily":#daily
+
 "(index-entry) Danielle":#danielle
+
 "(index-entry) Dave":#dave
+
+"(index-entry) Davies":#davies
+
 "(index-entry) Derek":#derek
+
 "(index-entry) Direct":#direct
+
 "(index-entry) Doctors":#doctors
+
+"(index-entry) Dodge":#dodge
+
 "(index-entry) Dorchester":#dorchester
+
 "(index-entry) Douch":#douch
+
+"(index-entry) Drew":#drew
+
+"(index-entry) Echo":#echo
+
+"(index-entry) Excalibur":#excalibur
+
+"(index-entry) F.E.":#fe
+
 "(index-entry) Fax":#fax
+
+"(index-entry) Fletcher":#fletcher
+
 "(index-entry) Florists":#florists
+
 "(index-entry) Flowers":#flowers
+
 "(index-entry) Gail":#gail
+
 "(index-entry) General":#general
+
 "(index-entry) Geri":#geri
+
 "(index-entry) Gordon":#gordon
+
+"(index-entry) Green":#green
+
+"(index-entry) Harris":#harris
+
 "(index-entry) Holly":#holly
+
 "(index-entry) Hospital":#hospital
+
 "(index-entry) Ian":#ian
+
+"(index-entry) Initial":#initial
+
 "(index-entry) Ives":#ives
+
 "(index-entry) James":#james
+
 "(index-entry) Jenny":#jenny
+
 "(index-entry) John":#john
+
+"(index-entry) Johnson":#johnson
+
 "(index-entry) Jolliffe":#jolliffe
+
 "(index-entry) Julian":#julian
+
 "(index-entry) Landline":#landline
+
 "(index-entry) Lesley":#lesley
+
 "(index-entry) Lew":#lew
+
 "(index-entry) Line":#line
+
 "(index-entry) Lodge":#lodge
+
+"(index-entry) Lovell":#lovell
+
 "(index-entry) M-Balm":#mbalm
+
 "(index-entry) Main":#main
+
 "(index-entry) Malcolm":#malcolm
+
 "(index-entry) Marita":#marita
+
 "(index-entry) Marsh":#marsh
+
 "(index-entry) Matt":#matt
+
+"(index-entry) Medical":#medical
+
 "(index-entry) Mike":#mike
+
 "(index-entry) Mobile":#mobile
+
 "(index-entry) Mortuary":#mortuary
+
 "(index-entry) Name":#name
+
 "(index-entry) Newspaper":#newspaper
+
 "(index-entry) Office":#office
+
+"(index-entry) Parker":#parker
+
 "(index-entry) Patient":#patient
+
 "(index-entry) Perfect":#perfect
+
 "(index-entry) Petals":#petals
+
 "(index-entry) Poole":#poole
+
 "(index-entry) Press":#press
+
 "(index-entry) Property":#property
+
 "(index-entry) Purbeck":#purbeck
+
 "(index-entry) Reception":#reception
+
+"(index-entry) Russell":#russell
+
+"(index-entry) Scatter":#scatter
+
 "(index-entry) Secretary":#secretary
+
+"(index-entry) Services":#services
+
 "(index-entry) Shand":#shand
+
 "(index-entry) Silver":#silver
+
 "(index-entry) Sister":#sister
+
 "(index-entry) Small":#small
+
 "(index-entry) Smith":#smith
+
+"(index-entry) Staples":#staples
+
+"(index-entry) Stationery":#stationery
+
+"(index-entry) Stonemason":#stonemason
+
 "(index-entry) Sue":#sue
+
+"(index-entry) Supplies":#supplies
+
 "(index-entry) Surgery":#surgery
+
 "(index-entry) Swanage":#swanage
+
 "(index-entry) Switchboard":#switchboard
+
 "(index-entry) Town":#town
+
 "(index-entry) Tree":#tree
+
+"(index-entry) Trotter":#trotter
+
+"(index-entry) Tubes":#tubes
+
 "(index-entry) Val":#val
+
 "(index-entry) Victoria":#victoria
+
+"(index-entry) Walton":#walton
+
 "(index-entry) Ward":#ward
+
+"(index-entry) Waste":#waste
+
 "(index-entry) Weymouth":#weymouth
+
+"(index-entry) and":#and
+

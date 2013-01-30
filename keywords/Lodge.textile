@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. Lodge
-=======
-h1(#Lodge). Lodge
->>>>>>> Added id property to keyword headers.
+h1(#lodge). Lodge
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). Bournemouth Coroner's Mortuary (Holly Tree Lodge)|(shortcode). 32|(tel_number). 1202303300|(empty_notes). ...|

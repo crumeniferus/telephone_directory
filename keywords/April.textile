@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-h1. April
-=======
-h1(#April). April
->>>>>>> Added id property to keyword headers.
+h1(#april). April
 
 |_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
 |(name). April Flowers (Florists)|(shortcode). 49|(tel_number). 553999|(empty_notes). ...|
