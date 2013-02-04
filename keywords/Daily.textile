@@ -1,0 +1,5 @@
+h1(#daily). Daily
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Daily Echo (Newspaper) (Victoria Davies)|(shortcode). 52|(tel_number). 1202411332|(empty_notes). ...|
+

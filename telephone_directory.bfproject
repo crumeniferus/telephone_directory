@@ -44,25 +44,22 @@ savedir: file:///F:/Office/Ian%20Pending/telephones
 files: F:\\Office\\Ian Pending\\telephones\\makefile
 files: F:\\Office\\Ian Pending\\telephones\\clean_possessives.mawk
 files: F:\\Office\\Ian Pending\\telephones\\csv2textile.mawk
-files: F:\\Office\\Ian Pending\\telephones\\textile2html.pl
-files: F:\\Office\\Ian Pending\\telephones\\contrib\\textile_header.textile
-files: F:\\Office\\Ian Pending\\telephones\\contrib\\html_preamble.html
-files: F:\\Office\\Ian Pending\\telephones\\contrib\\html_footer.html
 files: F:\\Office\\Ian Pending\\telephones\\directory.css
 files: F:\\Office\\Ian Pending\\telephones\\README.md
 files: F:\\Office\\Ian Pending\\telephones\\lines2links.mawk
 files: F:\\Office\\Ian Pending\\telephones\\keyword2hashtag.mawk
 snr_replacetype: 0
+recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/html_footer.html
 recent_files: file:///F:/Office/Ian%20Pending/telephones/README.md
+recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/textile_header.textile
+recent_files: file:///F:/Office/Ian%20Pending/telephones/directory.css
+recent_files: file:///F:/Office/Ian%20Pending/telephones/lines2links.mawk
 recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/html_preamble.html
 recent_files: file:///F:/Office/Ian%20Pending/telephones/textile2html.pl
-recent_files: file:///F:/Office/Ian%20Pending/telephones/makefile
-recent_files: file:///F:/Office/Ian%20Pending/telephones/lines2links.mawk
 recent_files: file:///F:/Office/Ian%20Pending/telephones/csv2textile.mawk
-recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/textile_header.textile
-recent_files: file:///F:/Office/Ian%20Pending/telephones/contrib/html_footer.html
-recent_files: file:///F:/Office/Ian%20Pending/telephones/directory.css
 recent_files: file:///F:/Office/Ian%20Pending/telephones/clean_possessives.mawk
+recent_files: file:///F:/Office/Ian%20Pending/telephones/keyword2hashtag.mawk
+recent_files: file:///F:/Office/Ian%20Pending/telephones/makefile
 recent_files: file:///F:/Office/Ian%20Pending/telephones/telephone_directory_pages.html
 recent_files: file:///F:/Office/Ian%20Pending/telephones/telephone_data.csv
 charmap_block: 1

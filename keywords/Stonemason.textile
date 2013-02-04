@@ -1,0 +1,6 @@
+h1(#stonemason). Stonemason
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Excalibur (Stonemason) (Supplies)|(shortcode). 6|(tel_number). 1202591922|(empty_notes). ...|
+|(name). Lovell's (Stonemason) (Supplies) (Mark Blanchard)|(shortcode). 5|(tel_number). 439255|(empty_notes). ...|
+

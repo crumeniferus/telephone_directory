@@ -1,0 +1,6 @@
+h1(#fletcher). Fletcher
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Lew Fletcher (Landline)|(shortcode). 77|(tel_number). 425044|(empty_notes). ...|
+|(name). Lew Fletcher (Mobile)|(shortcode). 78|(tel_number). 7976519326|(empty_notes). ...|
+

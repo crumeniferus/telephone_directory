@@ -1,0 +1,5 @@
+h1(#allsops). Allsops
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Allsops (Supplies) (Scatter Tubes)|(shortcode). 13|(tel_number). Not yet known|(empty_notes). ...|
+

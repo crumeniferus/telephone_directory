@@ -1,0 +1,7 @@
+h1(#walton). Walton
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). John Walton (Jenny) (Mobile)|(shortcode). 76|(tel_number). 7966433191|(empty_notes). ...|
+|(name). John Walton (Landline) (Bearer)|(shortcode). 74|(tel_number). 425592|(empty_notes). ...|
+|(name). John Walton (Mobile) (Bearer)|(shortcode). 75|(tel_number). 7807920745|(empty_notes). ...|
+

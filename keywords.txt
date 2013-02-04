@@ -8,6 +8,7 @@ April
 Back-up
 Bearer
 Black
+Blanchard
 Bloom
 Bournemouth
 Brosch
@@ -32,6 +33,7 @@ Drew
 Echo
 Excalibur
 F.E.
+Farrer
 Fax
 Fletcher
 Florists
@@ -49,6 +51,7 @@ Initial
 Ives
 James
 Jenny
+Jim
 John
 Johnson
 Jolliffe
@@ -63,13 +66,13 @@ M-Balm
 Main
 Malcolm
 Marita
+Mark
 Marsh
 Matt
 Medical
 Mike
 Mobile
 Mortuary
-Name
 Newspaper
 Office
 Parker

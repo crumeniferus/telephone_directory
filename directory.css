@@ -1,3 +1,46 @@
+div.index
+{
+	display:block;
+	float: left;
+	border-style: dotted;
+	border-width: 1px;
+	border-collapse: collapse;
+	padding: 5px;
+	height:  16730px;
+}
+ul.index-entry nav
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	display:block;
+	font: 8px Arial sans-serif;
+}
+
+nav p a
+{
+	display:block;
+	line-height: 25%;
+	color: inherit;
+}
+nav p a:hover
+{
+/*	background: rgb(0,135,255);*/
+	color: rgb(0,135,255);
+/*	width: 100%;*/
+}
+
+nav p a:visited
+{
+	color: inherit;
+/*	color: rgb(0,135,255);*/
+}
+
+div.directory-pages
+{
+	float: left;
+}
+
 table
 {
 	color: #000000;
@@ -80,3 +123,4 @@ td
 	vertical-align: top;
 /*	width: inherit;*/
 }
+

@@ -1,0 +1,6 @@
+h1(#coffins). Coffins
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+(has-see-also). |(name). Ian Cole (F.E. Harris) (Supplies) (Coffins)|(shortcode). 3|(tel_number). 7738170741|(empty_notes). ...|
+|(see-also). _See also_ F.E. Harris|
+

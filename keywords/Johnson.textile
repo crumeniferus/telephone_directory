@@ -1,0 +1,6 @@
+h1(#johnson). Johnson
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Mike Johnson (Landline) (Bearer)|(shortcode). 68|(tel_number). 424041|(empty_notes). ...|
+|(name). Mike Johnson (Mobile) (Bearer)|(shortcode). 69|(tel_number). 7981274383|(empty_notes). ...|
+

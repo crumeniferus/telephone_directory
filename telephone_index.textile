@@ -16,6 +16,8 @@
 
 "(index-entry) Black":#black
 
+"(index-entry) Blanchard":#blanchard
+
 "(index-entry) Bloom":#bloom
 
 "(index-entry) Bournemouth":#bournemouth
@@ -64,6 +66,8 @@
 
 "(index-entry) F.E.":#fe
 
+"(index-entry) Farrer":#farrer
+
 "(index-entry) Fax":#fax
 
 "(index-entry) Fletcher":#fletcher
@@ -98,6 +102,8 @@
 
 "(index-entry) Jenny":#jenny
 
+"(index-entry) Jim":#jim
+
 "(index-entry) John":#john
 
 "(index-entry) Johnson":#johnson
@@ -126,6 +132,8 @@
 
 "(index-entry) Marita":#marita
 
+"(index-entry) Mark":#mark
+
 "(index-entry) Marsh":#marsh
 
 "(index-entry) Matt":#matt
@@ -137,8 +145,6 @@
 "(index-entry) Mobile":#mobile
 
 "(index-entry) Mortuary":#mortuary
-
-"(index-entry) Name":#name
 
 "(index-entry) Newspaper":#newspaper
 

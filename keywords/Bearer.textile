@@ -1,0 +1,14 @@
+h1(#bearer). Bearer
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Charlie Parker (Landline) (Bearer)|(shortcode). 66|(tel_number). 423124|(empty_notes). ...|
+|(name). Charlie Parker (Mobile) (Bearer)|(shortcode). 67|(tel_number). 7932480881|(empty_notes). ...|
+|(name). Dave Russell (Landline) (Bearer)|(shortcode). 72|(tel_number). 421132|(empty_notes). ...|
+|(name). Dave Russell (Mobile) (Bearer)|(shortcode). 73|(tel_number). 7812566529|(empty_notes). ...|
+|(name). Gordon Drew (Landline) (Bearer)|(shortcode). 70|(tel_number). 426970|(empty_notes). ...|
+|(name). Gordon Drew (Mobile) (Bearer)|(shortcode). 71|(tel_number). 7721843373|(empty_notes). ...|
+|(name). John Walton (Landline) (Bearer)|(shortcode). 74|(tel_number). 425592|(empty_notes). ...|
+|(name). John Walton (Mobile) (Bearer)|(shortcode). 75|(tel_number). 7807920745|(empty_notes). ...|
+|(name). Mike Johnson (Landline) (Bearer)|(shortcode). 68|(tel_number). 424041|(empty_notes). ...|
+|(name). Mike Johnson (Mobile) (Bearer)|(shortcode). 69|(tel_number). 7981274383|(empty_notes). ...|
+

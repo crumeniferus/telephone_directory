@@ -1,0 +1,12 @@
+h1(#supplies). Supplies
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Allsops (Supplies) (Scatter Tubes)|(shortcode). 13|(tel_number). Not yet known|(empty_notes). ...|
+|(name). Brosch (Supplies)|(shortcode). 1|(tel_number). 1733230230|(empty_notes). ...|
+|(name). Dodge (Supplies) (Mortuary)|(shortcode). 2|(tel_number). 1256893883|(empty_notes). ...|
+|(name). Excalibur (Stonemason) (Supplies)|(shortcode). 6|(tel_number). 1202591922|(empty_notes). ...|
+(has-see-also). |(name). Ian Cole (F.E. Harris) (Supplies) (Coffins)|(shortcode). 3|(tel_number). 7738170741|(empty_notes). ...|
+|(see-also). _See also_ F.E. Harris|
+|(name). Lovell's (Stonemason) (Supplies) (Mark Blanchard)|(shortcode). 5|(tel_number). 439255|(empty_notes). ...|
+|(name). Staples (Supplies) (Stationery)|(shortcode). 4|(tel_number). 1302894031|(empty_notes). ...|
+

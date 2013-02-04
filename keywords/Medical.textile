@@ -1,0 +1,5 @@
+h1(#medical). Medical
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Initial Medical Services (Waste)|(shortcode). 11|(tel_number). 2082322530|(empty_notes). ...|
+

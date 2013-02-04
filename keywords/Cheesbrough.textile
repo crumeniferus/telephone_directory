@@ -1,0 +1,6 @@
+h1(#cheesbrough). Cheesbrough
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Ian Cheesbrough (Landline)|(shortcode). 64|(tel_number). 427107|(empty_notes). ...|
+|(name). Ian Cheesbrough (Mobile)|(shortcode). 65|(tel_number). 7792075233|(empty_notes). ...|
+

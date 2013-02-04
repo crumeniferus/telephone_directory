@@ -1,0 +1,6 @@
+h1(#trotter). Trotter
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Derek Trotter (Landline)|(shortcode). 62|(tel_number). 761442|(empty_notes). ...|
+|(name). Derek Trotter (Mobile)|(shortcode). 63|(tel_number). 7845082551|(empty_notes). ...|
+

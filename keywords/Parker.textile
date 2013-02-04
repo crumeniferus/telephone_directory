@@ -1,0 +1,6 @@
+h1(#parker). Parker
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Charlie Parker (Landline) (Bearer)|(shortcode). 66|(tel_number). 423124|(empty_notes). ...|
+|(name). Charlie Parker (Mobile) (Bearer)|(shortcode). 67|(tel_number). 7932480881|(empty_notes). ...|
+

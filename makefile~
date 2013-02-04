@@ -20,12 +20,12 @@ config : $(KEYWORD_LIST_FILE)
 directory: config telephone_directory.pdf telephone_directory.html
 
 
-keyword_list=$(shell cat $(KEYWORD_LIST_FILE))
+keyword_list:=$(shell cat $(KEYWORD_LIST_FILE))
 #keyword_file_stems=$(patsubst %,keyword_%,$(keyword_list)) 
-keyword_file_stems=$(keyword_list:%=$(keyword_dir)%)
-keyword_PDFs=$(addsuffix .pdf,$(keyword_file_stems))
-keyword_TEXTILEs=$(addsuffix .textile,$(keyword_file_stems))
-keyword_CSVs=$(addsuffix .csv,$(keyword_file_stems))
+keyword_file_stems:=$(keyword_list:%=$(keyword_dir)%)
+keyword_PDFs:=$(addsuffix .pdf,$(keyword_file_stems))
+keyword_TEXTILEs:=$(addsuffix .textile,$(keyword_file_stems))
+keyword_CSVs:=$(addsuffix .csv,$(keyword_file_stems))
 
 
 
@@ -36,6 +36,9 @@ telephone_directory.pdf : $(keyword_PDFs)
 telephone_directory.html : telephone_directory_pages.html telephone_index.html
 	@echo Cat together the HTML preamble, pages and closure.
 	cat ./contrib/html_preamble.html > $@
+	echo '<nav float="left">'  >> $@
+	cat ./telephone_index.html >> $@
+	echo '</nav>'  >> $@
 	cat ./telephone_directory_pages.html >> $@
 	cat ./contrib/html_footer.html >> $@
 
@@ -74,7 +77,7 @@ $(keyword_CSVs) : keywords.txt $(TELEPHONE_DATA_FILE)
 
 keywords.txt : $(TELEPHONE_DATA_FILE)
 #	cut -d, -f3 $(TELEPHONE_DATA_FILE) | tr -d "[()]" | mawk "{gsub(//,"X");print}" | tr -d "'" | tr "[:space:]" \n | sort | uniq > $(KEYWORD_LIST_FILE)
-	cut -d, -f3 $(TELEPHONE_DATA_FILE) | tr -d "[()]" | mawk -f clean_possessives.mawk | tr -d "'" | tr "[:space:]" "\n" | sort | uniq > $(KEYWORD_LIST_FILE)
+	grep -iv ^[a-z] $(TELEPHONE_DATA_FILE) | cut -d, -f3 | tr -d "[()]" | mawk -f clean_possessives.mawk | tr -d "'" | tr "[:space:]" "\n" | sort | uniq > $(KEYWORD_LIST_FILE)
 
 telephone_data.csv :
 

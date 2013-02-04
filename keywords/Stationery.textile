@@ -1,0 +1,5 @@
+h1(#stationery). Stationery
+
+|_(name). Name |_(shortcode). Shortcode |_(tel_number). Number |_(notes). Notes |
+|(name). Staples (Supplies) (Stationery)|(shortcode). 4|(tel_number). 1302894031|(empty_notes). ...|
+
